@@ -1,22 +1,25 @@
 # Machine Learning for Software Engineering
-This repository contains a curated list of papers on Machine Learning for Software Engineering. The papers are organized into popular research areas so that researchers can find recent papers and state-of-the-art approaches easily.
+This repository contains a curated list of papers, datasets, and tools that are devoted to research on Machine Learning for Software Engineering. The papers are organized into popular research areas so that researchers can find recent papers and state-of-the-art approaches easily.
 
 Please feel free to send a pull request to add papers that are not listed here.
 
 ## Content
-- [Type Inference](#type-inference)
-- [Code Completion](#code-completion)
-- [Code Generation](#code-generation)
-- [Code Summarization](#code-summarization)
-- [Code Embeddings](#code-embeddings)
-- [Code Changes](#code-changes)
-- [Bug/Vulnerability Detection](#bug/vulnerability-detection)
-- [Source Code Modeling](#source-code-modeling)
-- [Program Repair](#program-repair)
-- [Code Duplication](#code-duplication)
-- [Surveys](#surveys)
+- [Papers](#papers)
+    - [Type Inference](#type-inference)
+    - [Code Completion](#code-completion)
+    - [Code Generation](#code-generation)
+    - [Code Summarization](#code-summarization)
+    - [Code Embeddings](#code-embeddings)
+    - [Code Changes](#code-changes)
+    - [Bug/Vulnerability Detection](#bug/vulnerability-detection)
+    - [Source Code Modeling](#source-code-modeling)
+    - [Program Repair](#program-repair)
+    - [Code Duplication](#code-duplication)
+    - [Surveys](#surveys)
+- [Datasets](#datasets)
+- [Tools](#tools)
 
-# Research Areas
+# Papers
 
 ## Type Inference
 
@@ -33,7 +36,8 @@ Please feel free to send a pull request to add papers that are not listed here.
 
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Fast and Memory-Efficient Neural Code Completion** (2020), arxiv 2020, Svyatkovskoy, Alexey, et al. [[pdf]](https://arxiv.org/pdf/2004.13651)
-- 
+- **Pythia: AI-assisted Code Completion System** (2019), KDD '19, Svyatkovskiy, Alexey, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330699)
+- **Code Completion with Neural Attention and Pointer Networks** (2018), arxiv 2018, Li, Jian, et al. [[pdf]](https://arxiv.org/pdf/1711.09573)
 
 ## Code Generation
 
@@ -83,3 +87,16 @@ Please feel free to send a pull request to add papers that are not listed here.
 ## Surveys
 - **Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges** (2020), arxiv 2020, Le, Triet HM, et al. [[pdf]](https://arxiv.org/pdf/2002.05442)
 - **A Survey of Machine Learning for Big Code and Naturalness** (2018), ACM Computing Surveys, Allamanis, Miltiadis, et al. [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2018survey/allamanis2018survey.pdf)
+
+# Datasets
+
+- [ManySStuBs4J](https://datashare.is.ed.ac.uk/handle/10283/3424) (2019)
+- [150k Python Dataset](https://eth-sri.github.io/py150) (2016)
+- [150k Javascript Dataset](https://eth-sri.github.io/js150) (2016)
+- [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/) (2013)
+
+# Tools
+
+- [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
+- [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
+- [A concrete syntax tree parser library for Python (LibCST)](https://github.com/Instagram/LibCST)
