@@ -99,4 +99,5 @@ Please feel free to send a pull request to add papers that are not listed here.
 
 - [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
 - [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
+- [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc.
 - [A concrete syntax tree parser library for Python (LibCST)](https://github.com/Instagram/LibCST)
