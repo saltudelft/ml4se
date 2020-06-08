@@ -16,6 +16,7 @@ Please feel free to send a pull request to add papers that are not listed here.
     - [Program Repair](#program-repair)
     - [Code Duplication](#code-duplication)
     - [Surveys](#surveys)
+- [PhD Theses](#phd-theses)
 - [Datasets](#datasets)
 - [Tools](#tools)
 
@@ -87,6 +88,11 @@ Please feel free to send a pull request to add papers that are not listed here.
 ## Surveys
 - **Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges** (2020), arxiv 2020, Le, Triet HM, et al. [[pdf]](https://arxiv.org/pdf/2002.05442)
 - **A Survey of Machine Learning for Big Code and Naturalness** (2018), ACM Computing Surveys, Allamanis, Miltiadis, et al. [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2018survey/allamanis2018survey.pdf)
+
+# PhD Theses
+
+- **Improving the Usability of Static Analysis Tools Using Machine Learning** (2019), Ugur Koc [[pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/25464/Koc_umd_0117E_20465.pdf?sequence=2&isAllowed=y)
+- **Learning Natural Coding Conventions** (2016), Miltiadis Allamanis [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2017dissertation/allamanis2017dissertation.pdf)
 
 # Datasets
 
