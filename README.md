@@ -14,6 +14,7 @@ Please feel free to send a pull request to add papers that are not listed here.
     - [Bug/Vulnerability Detection](#bug/vulnerability-detection)
     - [Source Code Modeling](#source-code-modeling)
     - [Program Repair](#program-repair)
+    - [Program Translation](#program-translation)
     - [Code Duplication](#code-duplication)
     - [Surveys](#surveys)
 - [PhD Theses](#phd-theses)
@@ -80,6 +81,9 @@ Please feel free to send a pull request to add papers that are not listed here.
 ## Program Repair
 
 - **Neural Program Repair by Jointly Learning to Localize and Repair** (2019), arxiv 2019, Vasic, Marko, et al. [[pdf]](https://arxiv.org/pdf/1904.01720)
+
+## Program Translation
+- **Unsupervised Translation of Programming Languages** (2020), arxiv 2020, Lachaux, Marie-Anne et al. [[pdf]](https://arxiv.org/abs/2006.03511)
 
 ## Code Duplication
 
