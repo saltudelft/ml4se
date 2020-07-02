@@ -18,6 +18,7 @@ Please feel free to send a pull request to add papers that are not listed here.
     - [Code Duplication](#code-duplication)
     - [Surveys](#surveys)
 - [PhD Theses](#phd-theses)
+- [Talks](#talks)
 - [Datasets](#datasets)
 - [Tools](#tools)
 
@@ -90,6 +91,7 @@ Please feel free to send a pull request to add papers that are not listed here.
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Surveys
+- **Software Vulnerability Detection Using Deep Neural Networks: A Survey** (2020), Proceedings of the IEEE, Lin, Guanjun, et al.
 - **Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges** (2020), arxiv 2020, Le, Triet HM, et al. [[pdf]](https://arxiv.org/pdf/2002.05442)
 - **A Survey of Machine Learning for Big Code and Naturalness** (2018), ACM Computing Surveys, Allamanis, Miltiadis, et al. [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2018survey/allamanis2018survey.pdf)
 
@@ -97,6 +99,10 @@ Please feel free to send a pull request to add papers that are not listed here.
 
 - **Improving the Usability of Static Analysis Tools Using Machine Learning** (2019), Ugur Koc [[pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/25464/Koc_umd_0117E_20465.pdf?sequence=2&isAllowed=y)
 - **Learning Natural Coding Conventions** (2016), Miltiadis Allamanis [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2017dissertation/allamanis2017dissertation.pdf)
+
+# Talks
+- **Machine Learning for Software Engineering: AMA**, MSR 2020 [[video]](https://youtu.be/cphPhsehw2M)
+- **Understanding Source Code with Deep Learning**, FOSDEM 2019 [[video]](http://bofh.nikhef.nl/events/FOSDEM/2019/H.2213/ml_on_code_understanding.webm)
 
 # Datasets
 
