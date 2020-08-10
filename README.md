@@ -56,6 +56,7 @@ Please feel free to send a pull request to add papers that are not listed here.
 
 ## Code Embeddings
 
+- **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
 - **Codebert: A Pre-trained Model for Programming and Natural Languages** (2020), arxiv 2020, Feng, Zhangyin, et al. [[pdf]](https://arxiv.org/pdf/2002.08155)
 - **SCELMo: Source Code Embeddings from Language Models** (2020), arxiv 2020, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/2004.13214)
 - **code2vec: Learning Distributed Representations of Code** (2019), ACM POPL 2019, Alon, Uri, et al. [[pdf]](http://www.cs.technion.ac.il/~mbs/publications/code2vec-popl19.pdf)
@@ -120,7 +121,8 @@ Please feel free to send a pull request to add papers that are not listed here.
 
 # Tools
 
+- [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation
 - [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
 - [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
-- [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc.
-- [A concrete syntax tree parser library for Python (LibCST)](https://github.com/Instagram/LibCST)
+- [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
+- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python 
