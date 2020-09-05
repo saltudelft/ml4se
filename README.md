@@ -1,7 +1,7 @@
 # Machine Learning for Software Engineering
 This repository contains a curated list of papers, datasets, and tools that are devoted to research on Machine Learning for Software Engineering. The papers are organized into popular research areas so that researchers can find recent papers and state-of-the-art approaches easily.
 
-Please feel free to send a pull request to add papers that are not listed here.
+Please feel free to send a pull request to add papers and relevant content that are not listed here.
 
 ## Content
 - [Papers](#papers)
@@ -21,6 +21,7 @@ Please feel free to send a pull request to add papers that are not listed here.
 - [Talks](#talks)
 - [Datasets](#datasets)
 - [Tools](#tools)
+- [Research Groups](#research-groups)
 
 # Papers
 
@@ -128,3 +129,11 @@ Please feel free to send a pull request to add papers that are not listed here.
 - [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python 
 - [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+# Research Groups
+
+- [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/), Delft University of Technology
+- [Secure, Reliable, and Intelligent Systems Lab (SRI)](https://www.sri.inf.ethz.ch/), ETH Zurich
+- [Software Lab (SOLA)](https://software-lab.org/index.html), University of Stuttgart
+- [Machine Learning for the Analysis of Source Code Text (MAST)](http://mast-group.github.io/), Edinburgh University
+- [Deep Program Understanding](https://www.microsoft.com/en-us/research/project/program/), Microsoft Research
