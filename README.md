@@ -69,6 +69,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Changes
 
+- **CODIT: Code Editing with Tree-Based Neural Models** (2020), TSE 2020, Chakraborty, Saikat, et al.
 - **On learning meaningful code changes via neural machine translation** (2019), ICSE 2019, Tufano, Michele, et al.
 - **Commit2Vec: Learning Distributed Representations of Code Changes** (2019), arxiv 2019, Lozoya, Rocío Cabrera, et al. [[pdf]](https://arxiv.org/pdf/1911.07605)
 
