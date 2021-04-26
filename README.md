@@ -27,6 +27,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Type Inference
 
+- **Type4Py: Deep Similarity Learning-Based Type Inference for Python** (2021), arxiv 2021, Mir, Amir, et al. [[pdf]](https://arxiv.org/pdf/2101.04470.pdf)
 - **Advanced Graph-Based Deep Learning for Probabilistic Type Inference** (2020), arxiv 2020, Ye, Fangke, et al. [[pdf]](https://arxiv.org/pdf/2009.05949.pdf)
 - **OptTyper: Probabilistic Type Inference by Optimising Logical and Natural Constraints** (2020), arxiv 2020, Pandi, Irene Vlassi, et al. [[pdf]](https://arxiv.org/pdf/2004.00348)
 - **Typilus: Neural Type Hints** (2020), PLDI 2020, Allamanis, Miltiadis, et al. [[pdf]](https://arxiv.org/pdf/2004.10657)
@@ -38,7 +39,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Predicting Program Properties from “Big Code”** (2015) ACM SIGPLAN 2015, Raychev, Veselin, et al. [[pdf]](https://files.sri.inf.ethz.ch/website/papers/jsnice15.pdf)
 
 ## Code Completion
-
+- **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]])(https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Fast and Memory-Efficient Neural Code Completion** (2020), arxiv 2020, Svyatkovskoy, Alexey, et al. [[pdf]](https://arxiv.org/pdf/2004.13651)
 - **Pythia: AI-assisted Code Completion System** (2019), KDD '19, Svyatkovskiy, Alexey, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330699)
@@ -51,13 +52,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation** (2017), arxiv 2017, Barone, Antonio V. M., et al. [[pdf]](https://arxiv.org/pdf/1707.02275)
 
 ## Code Summarization
-
+- **Project-Level Encoding for Neural Source Code Summarization of Subroutines** (2021), ICPC 2021, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2103.11599)
+- **Code Structure Guided Transformer for Source Code Summarization** (2021), arxiv 2021, Gao, Shuzheng, et al. [[pdf]](https://arxiv.org/pdf/2104.09340)
 - **Source Code Summarization Using Attention-Based Keyword Memory Networks** (2020), IEEE BigComp 2020, Choi, YunSeok, et al.
 - **A Transformer-based Approach for Source Code Summarization** (2020), arxiv 2020, Ahmad, Wasi Uddin, et al. [[pdf]](https://arxiv.org/pdf/2005.00653)
 - **A Convolutional Attention Network for Extreme Summarization of Source Code** (2016), ICML 2016, Allamanis, Miltiadis, et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/allamanis16.pdf)
 
 ## Code Embeddings
-
+- **Language-Agnostic Representation Learning of Source Code from Structure and Context**, ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
 - **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
 - **Codebert: A Pre-trained Model for Programming and Natural Languages** (2020), arxiv 2020, Feng, Zhangyin, et al. [[pdf]](https://arxiv.org/pdf/2002.08155)
 - **SCELMo: Source Code Embeddings from Language Models** (2020), arxiv 2020, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/2004.13214)
@@ -89,7 +91,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Are Deep Neural Networks the Best Choice for Modeling Source Code?** (2017), FSE 2017, Hellendoorn, Vincent J., et al. [[pdf]](https://vhellendoorn.github.io/PDF/fse2017.pdf)
 
 ## Program Repair
-
+- **Neural Transfer Learning for Repairing Security Vulnerabilities in C Code** (2021), Chen, Zimin, et al. [[pdf]](https://arxiv.org/pdf/2104.08308)
+- **Generating Bug-Fixes Using Pretrained Transformers** (2021), arxiv 2021, Drain, Dawn, et al. [[pdf]](https://arxiv.org/pdf/2104.07896) 
 - **Neural Program Repair by Jointly Learning to Localize and Repair** (2019), arxiv 2019, Vasic, Marko, et al. [[pdf]](https://arxiv.org/pdf/1904.01720)
 
 ## Program Translation
@@ -111,6 +114,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Survey of Machine Learning for Big Code and Naturalness** (2018), ACM Computing Surveys, Allamanis, Miltiadis, et al. [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2018survey/allamanis2018survey.pdf)
 
 # PhD Theses
+- **Machine Learning and the Science of Software Engineering** (2020), Vincent Hellendoorn
 - **Deep learning for compilers** (2020), Christopher E. Cummins [[pdf]](https://era.ed.ac.uk/handle/1842/36866)
 - **Deep Learning in Software Engineering** (2020), Cody Watson [[pdf]](http://www.cs.wm.edu/~denys/pubs/dissertations/Watson_Dissertation.pdf)
 - **Learning Code Transformations via Neural Machine Translation** (2019), Michele Tufano [[pdf]](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=6811&context=etd)
@@ -123,6 +127,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 # Datasets
 
+- [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021)
 - [ManySStuBs4J](https://datashare.is.ed.ac.uk/handle/10283/3424) (2019)
 - [150k Python Dataset](https://eth-sri.github.io/py150) (2016)
 - [150k Javascript Dataset](https://eth-sri.github.io/js150) (2016)
@@ -131,7 +136,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Tools
 
 - [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation
+- [CD4Py](https://github.com/saltudelft/CD4Py) - Code De-Duplication for Python
 - [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
+- [LibSA4Py](https://github.com/saltudelft/libsa4py) - LibSA4Py: Light-weight static analysis for extracting type hints and features
 - [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
 - [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python 
