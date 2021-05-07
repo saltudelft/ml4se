@@ -11,7 +11,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Code Summarization](#code-summarization)
     - [Code Embeddings](#code-embeddings)
     - [Code Changes](#code-changes)
-    - [Bug/Vulnerability Detection](#bug/vulnerability-detection)
+    - [Bug/Vulnerability Detection](#bugvulnerability-detection)
     - [Source Code Modeling](#source-code-modeling)
     - [Program Repair](#program-repair)
     - [Program Translation](#program-translation)
@@ -39,7 +39,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Predicting Program Properties from “Big Code”** (2015) ACM SIGPLAN 2015, Raychev, Veselin, et al. [[pdf]](https://files.sri.inf.ethz.ch/website/papers/jsnice15.pdf)
 
 ## Code Completion
-- **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]])(https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
+- **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Fast and Memory-Efficient Neural Code Completion** (2020), arxiv 2020, Svyatkovskoy, Alexey, et al. [[pdf]](https://arxiv.org/pdf/2004.13651)
 - **Pythia: AI-assisted Code Completion System** (2019), KDD '19, Svyatkovskiy, Alexey, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330699)
@@ -59,12 +59,12 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Convolutional Attention Network for Extreme Summarization of Source Code** (2016), ICML 2016, Allamanis, Miltiadis, et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/allamanis16.pdf)
 
 ## Code Embeddings
-- **Language-Agnostic Representation Learning of Source Code from Structure and Context**, ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
+- **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
+- **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
 - **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
 - **Codebert: A Pre-trained Model for Programming and Natural Languages** (2020), arxiv 2020, Feng, Zhangyin, et al. [[pdf]](https://arxiv.org/pdf/2002.08155)
 - **SCELMo: Source Code Embeddings from Language Models** (2020), arxiv 2020, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/2004.13214)
 - **code2vec: Learning Distributed Representations of Code** (2019), ACM POPL 2019, Alon, Uri, et al. [[pdf]](http://www.cs.technion.ac.il/~mbs/publications/code2vec-popl19.pdf)
-- **Pre-trained Contextual Embedding of Source Code** (2019), arxiv 2019, Kanade, Aditya, et al. [[pdf]](https://arxiv.org/pdf/2001.00059)
 - **COSET: A Benchmark for Evaluating Neural Program Embeddings** (2019), arxiv 2019, Wang, Ke, et al. [[pdf]](https://arxiv.org/pdf/1905.11445)
 - **A Literature Study of Embeddings on Source Code** (2019), arxiv 2019, Chen, Zimin, et al. [[pdf]](https://arxiv.org/pdf/1904.03061)
 - **code2seq: Generating Sequences from Structured Representations of Code** (2018), arxiv 2018, Alon, Uri, et al. [[pdf]](https://arxiv.org/pdf/1808.01400)
@@ -77,7 +77,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Commit2Vec: Learning Distributed Representations of Code Changes** (2019), arxiv 2019, Lozoya, Rocío Cabrera, et al. [[pdf]](https://arxiv.org/pdf/1911.07605)
 
 ## Bug/Vulnerability Detection
-
+- **Hoppity: Learning graph transformations to detect and fix bugs in programs** (2020), ICLR 2020, Dinella, Elizabeth, et al. [[pdf]](https://openreview.net/pdf/9d37b18aba351f4294aa84e69ea330d1fa51c471.pdf)
 - **Deep Learning based Software Defect Prediction** (2020), Neurocomputing, Qiao, Lei, et al.
 - **Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases** (2019), IEEE TDSC, Lin, Guanjun, et al.
 - **Neural Bug Finding: A Study of Opportunities and Challenges** (2019), arxiv 2019, Habib, Andrew, et al. [[pdf]](https://arxiv.org/pdf/1906.00307)
@@ -126,7 +126,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Understanding Source Code with Deep Learning**, FOSDEM 2019 [[video]](http://bofh.nikhef.nl/events/FOSDEM/2019/H.2213/ml_on_code_understanding.webm)
 
 # Datasets
-
+- [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
 - [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021)
 - [ManySStuBs4J](https://datashare.is.ed.ac.uk/handle/10283/3424) (2019)
 - [150k Python Dataset](https://eth-sri.github.io/py150) (2016)
@@ -139,6 +139,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [CD4Py](https://github.com/saltudelft/CD4Py) - Code De-Duplication for Python
 - [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
 - [LibSA4Py](https://github.com/saltudelft/libsa4py) - LibSA4Py: Light-weight static analysis for extracting type hints and features
+- [python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
 - [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
 - [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python 
