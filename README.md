@@ -27,6 +27,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Type Inference
 
+- **HiTyper: A Hybrid Static Type Inference Framework with Neural Prediction**, arxiv 2021, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
 - **Type4Py: Deep Similarity Learning-Based Type Inference for Python** (2021), arxiv 2021, Mir, Amir, et al. [[pdf]](https://arxiv.org/pdf/2101.04470.pdf)
 - **Advanced Graph-Based Deep Learning for Probabilistic Type Inference** (2020), arxiv 2020, Ye, Fangke, et al. [[pdf]](https://arxiv.org/pdf/2009.05949.pdf)
 - **OptTyper: Probabilistic Type Inference by Optimising Logical and Natural Constraints** (2020), arxiv 2020, Pandi, Irene Vlassi, et al. [[pdf]](https://arxiv.org/pdf/2004.00348)
@@ -128,6 +129,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Datasets
 - [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
 - [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021)
+- [CodeSearchNet](https://github.com/github/CodeSearchNet) (2020)
 - [ManySStuBs4J](https://datashare.is.ed.ac.uk/handle/10283/3424) (2019)
 - [150k Python Dataset](https://eth-sri.github.io/py150) (2016)
 - [150k Javascript Dataset](https://eth-sri.github.io/js150) (2016)
@@ -142,7 +144,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
 - [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
 - [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
-- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python 
+- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python
+- [Semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 # Research Groups
