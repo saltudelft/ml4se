@@ -26,7 +26,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
-
+- **Cross-Lingual Adaptation for Type Inference**, arxiv 2021, Li, Zhiming, et al. [[pdf]](https://arxiv.org/pdf/2107.00157)
+- **PYInfer: Deep Learning Semantic Type Inference for Python Variables**, arxiv 2021, Cui, Siwei, et al. [[pdf]](https://arxiv.org/pdf/2106.14316)
 - **HiTyper: A Hybrid Static Type Inference Framework with Neural Prediction**, arxiv 2021, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
 - **Type4Py: Deep Similarity Learning-Based Type Inference for Python** (2021), arxiv 2021, Mir, Amir, et al. [[pdf]](https://arxiv.org/pdf/2101.04470.pdf)
 - **Advanced Graph-Based Deep Learning for Probabilistic Type Inference** (2020), arxiv 2020, Ye, Fangke, et al. [[pdf]](https://arxiv.org/pdf/2009.05949.pdf)
