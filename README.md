@@ -26,6 +26,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
+- **Learning type annotation: is big data enough?**, FSE 2021, Jesse, Kevin, et al.
 - **Cross-Lingual Adaptation for Type Inference**, arxiv 2021, Li, Zhiming, et al. [[pdf]](https://arxiv.org/pdf/2107.00157)
 - **PYInfer: Deep Learning Semantic Type Inference for Python Variables**, arxiv 2021, Cui, Siwei, et al. [[pdf]](https://arxiv.org/pdf/2106.14316)
 - **HiTyper: A Hybrid Static Type Inference Framework with Neural Prediction**, arxiv 2021, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
