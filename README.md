@@ -89,7 +89,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automatically Learning Semantic Features for Defect Prediction** (2016), ICSE 2016, Wang, Song, et al.
 
 ## Source Code Modeling
-
+- **Empirical Study of Transformers for Source Code**, FSE'21, Chirkova, N., & Troshin, S.
+- **Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code**, ICSE'20, Karampatsis, Rafael-Michael, et al.
 - **Maybe Deep Neural Networks are the Best Choice for Modeling Source Code** (2019), arxiv 2019, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/1903.05734)
 - **Are Deep Neural Networks the Best Choice for Modeling Source Code?** (2017), FSE 2017, Hellendoorn, Vincent J., et al. [[pdf]](https://vhellendoorn.github.io/PDF/fse2017.pdf)
 
@@ -157,3 +158,4 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [Software Lab (SOLA)](https://software-lab.org/index.html), University of Stuttgart
 - [Machine Learning for the Analysis of Source Code Text (MAST)](http://mast-group.github.io/), Edinburgh University
 - [Deep Program Understanding](https://www.microsoft.com/en-us/research/project/program/), Microsoft Research
+- [DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab)](https://decallab.cs.ucdavis.edu/), UC Davis
