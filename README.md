@@ -16,6 +16,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Program Repair](#program-repair)
     - [Program Translation](#program-translation)
     - [Code Duplication](#code-duplication)
+    - [Empirical Studies](#empirical-studies)
     - [Surveys](#surveys)
 - [PhD Theses](#phd-theses)
 - [Talks](#talks)
@@ -43,9 +44,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Completion
 - **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
-- **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
+- **Code Prediction by Feeding Trees to Transformers** (2021), ICSE'21, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **Fast and Memory-Efficient Neural Code Completion** (2020), arxiv 2020, Svyatkovskoy, Alexey, et al. [[pdf]](https://arxiv.org/pdf/2004.13651)
-- **Pythia: AI-assisted Code Completion System** (2019), KDD '19, Svyatkovskiy, Alexey, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330699)
+- **Pythia: AI-assisted Code Completion System** (2019), KDD'19, Svyatkovskiy, Alexey, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330699)
 - **Code Completion with Neural Attention and Pointer Networks** (2018), arxiv 2018, Li, Jian, et al. [[pdf]](https://arxiv.org/pdf/1711.09573)
 
 ## Code Generation
@@ -89,7 +90,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automatically Learning Semantic Features for Defect Prediction** (2016), ICSE 2016, Wang, Song, et al.
 
 ## Source Code Modeling
-- **Empirical Study of Transformers for Source Code**, FSE'21, Chirkova, N., & Troshin, S.
 - **Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code**, ICSE'20, Karampatsis, Rafael-Michael, et al.
 - **Maybe Deep Neural Networks are the Best Choice for Modeling Source Code** (2019), arxiv 2019, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/1903.05734)
 - **Are Deep Neural Networks the Best Choice for Modeling Source Code?** (2017), FSE 2017, Hellendoorn, Vincent J., et al. [[pdf]](https://vhellendoorn.github.io/PDF/fse2017.pdf)
@@ -106,6 +106,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
+## Empirical Studies
+- **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code**, ASE'21, Paltenghi, M. & Pradel, M.
+- **An Empirical Study of Transformers for Source Code**, FSE'21, Chirkova, N., & Troshin, S.
+- **An Empirical Study on the Usage of Transformer Models for Code Completion**, MSR'21, Ciniselli, Matteo, et al.
+
 ## Surveys
 
 - **Deep Learning & Software Engineering: State of Research and Future Directions** (2020), arxiv 2020, Devanbu, Prem, et al. [[pdf]](https://arxiv.org/pdf/2009.08525.pdf)
@@ -118,6 +123,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Survey of Machine Learning for Big Code and Naturalness** (2018), ACM Computing Surveys, Allamanis, Miltiadis, et al. [[pdf]](https://miltos.allamanis.com/publicationfiles/allamanis2018survey/allamanis2018survey.pdf)
 
 # PhD Theses
+- **Learning to Find Bugs in Programs and their Documentation** (2021), Andrew Habib [[pdf](https://tuprints.ulb.tu-darmstadt.de/17377/)]
 - **Machine Learning and the Science of Software Engineering** (2020), Vincent Hellendoorn
 - **Deep learning for compilers** (2020), Christopher E. Cummins [[pdf]](https://era.ed.ac.uk/handle/1842/36866)
 - **Deep Learning in Software Engineering** (2020), Cody Watson [[pdf]](http://www.cs.wm.edu/~denys/pubs/dissertations/Watson_Dissertation.pdf)
