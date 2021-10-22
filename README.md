@@ -27,6 +27,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
+- **SimTyper: Sound Type Inference for Ruby using Type Equality Prediction**, OOPSLA'21, Kazerounian, Milod, et al.
 - **Learning type annotation: is big data enough?**, FSE 2021, Jesse, Kevin, et al.
 - **Cross-Lingual Adaptation for Type Inference**, arxiv 2021, Li, Zhiming, et al. [[pdf]](https://arxiv.org/pdf/2107.00157)
 - **PYInfer: Deep Learning Semantic Type Inference for Python Variables**, arxiv 2021, Cui, Siwei, et al. [[pdf]](https://arxiv.org/pdf/2106.14316)
