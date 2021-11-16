@@ -27,14 +27,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
-- **SimTyper: Sound Type Inference for Ruby using Type Equality Prediction**, OOPSLA'21, Kazerounian, Milod, et al.
-- **Learning type annotation: is big data enough?**, FSE 2021, Jesse, Kevin, et al.
-- **Cross-Lingual Adaptation for Type Inference**, arxiv 2021, Li, Zhiming, et al. [[pdf]](https://arxiv.org/pdf/2107.00157)
-- **PYInfer: Deep Learning Semantic Type Inference for Python Variables**, arxiv 2021, Cui, Siwei, et al. [[pdf]](https://arxiv.org/pdf/2106.14316)
-- **HiTyper: A Hybrid Static Type Inference Framework with Neural Prediction**, arxiv 2021, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
+- **Type Inference as Optimization** (2021), NeurIPS'21 AIPLANS,  Pandi, Irene Vlassi, et al. [[pdf]](https://openreview.net/pdf?id=yHYZaQ0Zvml)
+- **SimTyper: Sound Type Inference for Ruby using Type Equality Prediction** (2021), OOPSLA'21, Kazerounian, Milod, et al.
+- **Learning type annotation: is big data enough?** (2021), FSE 2021, Jesse, Kevin, et al.
+- **Cross-Lingual Adaptation for Type Inference** (2021), arxiv 2021, Li, Zhiming, et al. [[pdf]](https://arxiv.org/pdf/2107.00157)
+- **PYInfer: Deep Learning Semantic Type Inference for Python Variables** (2021), arxiv 2021, Cui, Siwei, et al. [[pdf]](https://arxiv.org/pdf/2106.14316)
+- **HiTyper: A Hybrid Static Type Inference Framework with Neural Prediction** (2021), arxiv 2021, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
 - **Type4Py: Deep Similarity Learning-Based Type Inference for Python** (2021), arxiv 2021, Mir, Amir, et al. [[pdf]](https://arxiv.org/pdf/2101.04470.pdf)
 - **Advanced Graph-Based Deep Learning for Probabilistic Type Inference** (2020), arxiv 2020, Ye, Fangke, et al. [[pdf]](https://arxiv.org/pdf/2009.05949.pdf)
-- **OptTyper: Probabilistic Type Inference by Optimising Logical and Natural Constraints** (2020), arxiv 2020, Pandi, Irene Vlassi, et al. [[pdf]](https://arxiv.org/pdf/2004.00348)
 - **Typilus: Neural Type Hints** (2020), PLDI 2020, Allamanis, Miltiadis, et al. [[pdf]](https://arxiv.org/pdf/2004.10657)
 - **LambdaNet: Probabilistic Type Inference using Graph Neural Networks** (2020), arxiv 2020, Wei, Jiayi, et al. [[pdf]](https://arxiv.org/pdf/2005.02161)
 - **TypeWriter: Neural Type Prediction with Search-based Validation** (2019), arxiv 2019, Pradel, Michael, et al. [[pdf]](https://arxiv.org/pdf/1912.03768)
@@ -77,9 +77,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Changes
 
+- **Commit2Vec: Learning Distributed Representations of Code Changes** (2021), SN Computer Science, Lozoya, Rocío Cabrera, et al.
 - **CODIT: Code Editing with Tree-Based Neural Models** (2020), TSE 2020, Chakraborty, Saikat, et al.
 - **On learning meaningful code changes via neural machine translation** (2019), ICSE 2019, Tufano, Michele, et al.
-- **Commit2Vec: Learning Distributed Representations of Code Changes** (2019), arxiv 2019, Lozoya, Rocío Cabrera, et al. [[pdf]](https://arxiv.org/pdf/1911.07605)
 
 ## Bug/Vulnerability Detection
 - **Hoppity: Learning graph transformations to detect and fix bugs in programs** (2020), ICLR 2020, Dinella, Elizabeth, et al. [[pdf]](https://openreview.net/pdf/9d37b18aba351f4294aa84e69ea330d1fa51c471.pdf)
