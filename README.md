@@ -15,7 +15,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Source Code Modeling](#source-code-modeling)
     - [Program Repair](#program-repair)
     - [Program Translation](#program-translation)
-    - [Code Duplication](#code-duplication)
+    - [Code Clone Detection](#code-clone-detection)
     - [Empirical Studies](#empirical-studies)
     - [Surveys](#surveys)
 - [PhD Theses](#phd-theses)
@@ -103,8 +103,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Program Translation
 - **Unsupervised Translation of Programming Languages** (2020), arxiv 2020, Lachaux, Marie-Anne et al. [[pdf]](https://arxiv.org/abs/2006.03511)
 
-## Code Duplication
-
+## Code Clone Detection
+- **funcGNN: A Graph Neural Network Approach to Program Similarity** (2020), ESEM'20, Nair, Aravind, et al.
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Empirical Studies
