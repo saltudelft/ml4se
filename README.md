@@ -23,6 +23,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [Datasets](#datasets)
 - [Tools](#tools)
 - [Research Groups](#research-groups)
+- [Venues](#venues)
 
 # Papers
 
@@ -66,6 +67,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Code Embeddings
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
 - **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
+- **Learning Semantic Program Embeddings with Graph Interval Neural Network** (2020), OOPSLA'20, Wang, Yu, et al.
 - **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
 - **Codebert: A Pre-trained Model for Programming and Natural Languages** (2020), arxiv 2020, Feng, Zhangyin, et al. [[pdf]](https://arxiv.org/pdf/2002.08155)
 - **SCELMo: Source Code Embeddings from Language Models** (2020), arxiv 2020, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/2004.13214)
@@ -167,3 +169,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [Machine Learning for the Analysis of Source Code Text (MAST)](http://mast-group.github.io/), Edinburgh University
 - [Deep Program Understanding](https://www.microsoft.com/en-us/research/project/program/), Microsoft Research
 - [DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab)](https://decallab.cs.ucdavis.edu/), UC Davis
+
+# Venues
+
+- **ICSE**, the International Conference on Software Engineering
+- **FSE**, Symposium on the Foundations of Software Engineering
+- **ASE**, the International Conference on Automated Software Engineering
+- **MSR**, the Mining Software Repositories conference
+- **ICLR**, the International Conference on Learning Representations
+- **ICML**, the International Conference on Machine Learning
+- **OOPSLA**, the ACM Conference on Systems, Programming, Languages, and Applications
+- **TSE**, the IEEE Transactions on Software Engineering
