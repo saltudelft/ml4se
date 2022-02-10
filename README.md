@@ -67,6 +67,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Embeddings
 - **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** (2022), ICSE'22, Niu, Changan, et al. [[pdf]](https://arxiv.org/pdf/2201.01549.pdf)
+- **TreeCaps: Tree-Based Capsule Networks for Source Code Processing** (2021), AAAI'21, Bui, Nghi DQ, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9746.BuiNDQ.pdf) [[code]](https://github.com/bdqnghi/treecaps)
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
 - **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
 - **Learning Semantic Program Embeddings with Graph Interval Neural Network** (2020), OOPSLA'20, Wang, Yu, et al.
@@ -167,6 +168,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python
 - [Semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [GraphGen4Code](https://wala.github.io/graph4code/) - A toolkit for creating code knowledge graphs based on WALA code analysis and extraction of documentation
 
 # Research Groups
 
@@ -185,5 +187,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **MSR**, the Mining Software Repositories conference
 - **ICLR**, the International Conference on Learning Representations
 - **ICML**, the International Conference on Machine Learning
+- **AAAI**, Association for the Advancement of Artificial
+Intelligence 
 - **OOPSLA**, the ACM Conference on Systems, Programming, Languages, and Applications
 - **TSE**, the IEEE Transactions on Software Engineering
