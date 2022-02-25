@@ -152,6 +152,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Understanding Source Code with Deep Learning**, FOSDEM 2019 [[video]](http://bofh.nikhef.nl/events/FOSDEM/2019/H.2213/ml_on_code_understanding.webm)
 
 # Datasets
+- [GitHub Code](https://huggingface.co/datasets/lvwerra/github-code) (2022) - 115M LoC in 32 programming languages
+- [CodeXGLUE](https://huggingface.co/datasets?search=code_x_glue) (2021)
 - [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
 - [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021)
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) (2020)
