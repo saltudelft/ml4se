@@ -102,8 +102,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automatically Learning Semantic Features for Defect Prediction** (2016), ICSE 2016, Wang, Song, et al.
 
 ## Source Code Modeling
-- **A Systematic Evaluation of Large Language Models of Code**, arxiv 2022, Xu, Frank F., et al. [[pdf]](https://arxiv.org/pdf/2202.13169)
+- **A Systematic Evaluation of Large Language Models of Code**, arxiv 2022, Xu, Frank F., et al. [[pdf]](https://arxiv.org/pdf/2202.13169)[[code]](https://github.com/VHellendoorn/Code-LMs)
 - **Multilingual training for Software Engineering**, ICSE'22, Ahmed, Toufique, et al. [[pdf]](https://arxiv.org/pdf/2112.02043)
+- **Unified Pre-training for Program Understanding and Generation**, NAACL'21, Ahmad, Wasi Uddin, et al. [[pdf]](https://arxiv.org/pdf/2103.06333)
 - **Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code**, ICSE'20, Karampatsis, Rafael-Michael, et al.
 - **Maybe Deep Neural Networks are the Best Choice for Modeling Source Code** (2019), arxiv 2019, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/1903.05734)
 - **Are Deep Neural Networks the Best Choice for Modeling Source Code?** (2017), FSE 2017, Hellendoorn, Vincent J., et al. [[pdf]](https://vhellendoorn.github.io/PDF/fse2017.pdf)
@@ -156,6 +157,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Understanding Source Code with Deep Learning**, FOSDEM 2019 [[video]](http://bofh.nikhef.nl/events/FOSDEM/2019/H.2213/ml_on_code_understanding.webm)
 
 # Datasets
+- [HumanEval](https://github.com/openai/human-eval) - Program synthesis from code comments
 - [GitHub Code](https://huggingface.co/datasets/lvwerra/github-code) (2022) - 115M LoC in 32 programming languages
 - [CodeXGLUE](https://huggingface.co/datasets?search=code_x_glue) (2021)
 - [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
