@@ -127,6 +127,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Empirical Studies
+- **Assessing Generalizability of CodeBERT**, ICSME'21, Zhou, Xin, et al.
 - **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code**, ASE'21, Paltenghi, M. & Pradel, M.
 - **An Empirical Study of Transformers for Source Code**, FSE'21, Chirkova, N., & Troshin, S.
 - **An Empirical Study on the Usage of Transformer Models for Code Completion**, MSR'21, Ciniselli, Matteo, et al.
@@ -157,11 +158,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Understanding Source Code with Deep Learning**, FOSDEM 2019 [[video]](http://bofh.nikhef.nl/events/FOSDEM/2019/H.2213/ml_on_code_understanding.webm)
 
 # Datasets
+
+- [ManyTypes4TypeScript](https://www.kevinrjesse.com/pdfs/ManyTypes4TypeScript.pdf) (2022) - Type prediction dataset for TypeScript 
 - [HumanEval](https://github.com/openai/human-eval) - Program synthesis from code comments
 - [GitHub Code](https://huggingface.co/datasets/lvwerra/github-code) (2022) - 115M LoC in 32 programming languages
 - [CodeXGLUE](https://huggingface.co/datasets?search=code_x_glue) (2021)
 - [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
-- [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021)
+- [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021) - Type prediction dataset for Python
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) (2020)
 - [ManySStuBs4J](https://datashare.is.ed.ac.uk/handle/10283/3424) (2019)
 - [150k Python Dataset](https://eth-sri.github.io/py150) (2016)
