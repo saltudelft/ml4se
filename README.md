@@ -9,7 +9,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Code Completion](#code-completion)
     - [Code Generation](#code-generation)
     - [Code Summarization](#code-summarization)
-    - [Code Embeddings](#code-embeddings)
+    - [Code Embeddings/Representation](#code-embeddingsrepresentation)
     - [Code Changes](#code-changes)
     - [Bug/Vulnerability Detection](#bugvulnerability-detection)
     - [Source Code Modeling](#source-code-modeling)
@@ -28,6 +28,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
+- **Finding the Dwarf: Recovering Precise Types from WebAssembly Binaries** (2022), PLDI'22, Lehmann, Daniel and Pradel, Michael [[pdf]](https://dlehmann.eu/publications/WasmTypePrediction-pldi2022.pdf)
 - **Type Inference as Optimization** (2021), NeurIPS'21 AIPLANS,  Pandi, Irene Vlassi, et al. [[pdf]](https://openreview.net/pdf?id=yHYZaQ0Zvml)
 - **SimTyper: Sound Type Inference for Ruby using Type Equality Prediction** (2021), OOPSLA'21, Kazerounian, Milod, et al.
 - **Learning type annotation: is big data enough?** (2021), FSE 2021, Jesse, Kevin, et al.
@@ -61,14 +62,18 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation** (2017), arxiv 2017, Barone, Antonio V. M., et al. [[pdf]](https://arxiv.org/pdf/1707.02275)
 
 ## Code Summarization
-- **Project-Level Encoding for Neural Source Code Summarization of Subroutines** (2021), ICPC 2021, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2103.11599)
+- **M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization** (2022), ICPC'22, Gao, Yuexiu and Lyu, Chen [[pdf]](https://arxiv.org/pdf/2203.09707)
+- **Project-Level Encoding for Neural Source Code Summarization of Subroutines** (2021), ICPC'21, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2103.11599)
 - **Code Structure Guided Transformer for Source Code Summarization** (2021), arxiv 2021, Gao, Shuzheng, et al. [[pdf]](https://arxiv.org/pdf/2104.09340)
 - **Source Code Summarization Using Attention-Based Keyword Memory Networks** (2020), IEEE BigComp 2020, Choi, YunSeok, et al.
 - **A Transformer-based Approach for Source Code Summarization** (2020), arxiv 2020, Ahmad, Wasi Uddin, et al. [[pdf]](https://arxiv.org/pdf/2005.00653)
 - **Learning to Represent Programs with Graphs** (2018), ICLR'18, Allamanis, Miltiadis, et al. [[pdf]](https://arxiv.org/pdf/1711.00740)
 - **A Convolutional Attention Network for Extreme Summarization of Source Code** (2016), ICML 2016, Allamanis, Miltiadis, et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/allamanis16.pdf)
 
-## Code Embeddings
+## Code Embeddings/Representation
+- **Fold2Vec: Towards a Statement Based Representation of Code for Code Comprehension** (2022), TOSEM'22, Bertolotti, Francesco and Cazzola, Walter
+- **HELoC: Hierarchical Contrastive Learning of Source Code Representation** (2022), ICPC'22, Wang, Xiao, et al. [[pdf]](https://arxiv.org/pdf/2203.14285)
+- **Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection** (2022), AAAI'22, Long, Tin et al. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-928.LongT.pdf)
 - **UniXcoder: Unified Cross-Modal Pre-training for Code Representation** (2022), arxiv 2022, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2203.03850)
 - **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** (2022), ICSE'22, Niu, Changan, et al. [[pdf]](https://arxiv.org/pdf/2201.01549.pdf)
 - **TreeCaps: Tree-Based Capsule Networks for Source Code Processing** (2021), AAAI'21, Bui, Nghi DQ, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9746.BuiNDQ.pdf) [[code]](https://github.com/bdqnghi/treecaps)
@@ -91,6 +96,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **On learning meaningful code changes via neural machine translation** (2019), ICSE 2019, Tufano, Michele, et al.
 
 ## Bug/Vulnerability Detection
+- **Transformer-Based Language Models for Software Vulnerability Detection: Performance, Model's Security and Platforms** (2022), arxiv 2022, Thapa, Chandra, et al. [[pdf]](https://arxiv.org/pdf/2204.03214.pdf)
 - **LineVD: Statement-level Vulnerability Detection using Graph Neural Networks** (2022), MSR'22, Hin, David, et al. [[pdf]](https://arxiv.org/pdf/2203.05181)
 - **Nalin: Learning from Runtime Behavior to Find Name-Value Inconsistencies in Jupyter Notebooks** (2022), ICSE'22, Patra, Jibesh, et al. [[pdf]](https://arxiv.org/pdf/2112.06186.pdf)
 - **Hoppity: Learning graph transformations to detect and fix bugs in programs** (2020), ICLR 2020, Dinella, Elizabeth, et al. [[pdf]](https://openreview.net/pdf/9d37b18aba351f4294aa84e69ea330d1fa51c471.pdf)
@@ -127,10 +133,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Empirical Studies
-- **Assessing Generalizability of CodeBERT**, ICSME'21, Zhou, Xin, et al.
-- **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code**, ASE'21, Paltenghi, M. & Pradel, M.
-- **An Empirical Study of Transformers for Source Code**, FSE'21, Chirkova, N., & Troshin, S.
-- **An Empirical Study on the Usage of Transformer Models for Code Completion**, MSR'21, Ciniselli, Matteo, et al.
+- **Learning Program Semantics with Code Representations: An Empirical Study** (2022), Siow, Jing Kai, et al. [[pdf]](https://arxiv.org/pdf/2203.11790)
+- **Assessing Generalizability of CodeBERT** (2021), ICSME'21, Zhou, Xin, et al.
+- **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** (2021), ASE'21, Paltenghi, M. & Pradel, M.
+- **An Empirical Study of Transformers for Source Code** (2021), FSE'21, Chirkova, N., & Troshin, S.
+- **An Empirical Study on the Usage of Transformer Models for Code Completion** (2021), MSR'21, Ciniselli, Matteo, et al.
 
 ## Surveys
 
@@ -200,6 +207,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **FSE**, Symposium on the Foundations of Software Engineering
 - **ASE**, the International Conference on Automated Software Engineering
 - **MSR**, the Mining Software Repositories conference
+- **ICPC**, the International Conference on Program Comprehension
 - **ICLR**, the International Conference on Learning Representations
 - **ICML**, the International Conference on Machine Learning
 - **AAAI**, Association for the Advancement of Artificial
