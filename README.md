@@ -93,6 +93,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Literature Study of Embeddings on Source Code** (2019), arxiv 2019, Chen, Zimin, et al. [[pdf]](https://arxiv.org/pdf/1904.03061)
 - **code2seq: Generating Sequences from Structured Representations of Code** (2018), arxiv 2018, Alon, Uri, et al. [[pdf]](https://arxiv.org/pdf/1808.01400)
 - **Neural Code Comprehension: A Learnable Representation of Code Semantics** (2018), NIPS 2018, Ben-Nun, Tal, et al. [[pdf]](http://papers.nips.cc/paper/7617-neural-code-comprehension-a-learnable-representation-of-code-semantics.pdf)
+- **Convolutional Neural Networks over Tree Structures for Programming Language Processing** (2016), AAAI'16, Mou, Lili, et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11775/11735)
 
 ## Code Changes
 
@@ -138,7 +139,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Empirical Studies
-- **Learning Program Semantics with Code Representations: An Empirical Study** (2022), Siow, Jing Kai, et al. [[pdf]](https://arxiv.org/pdf/2203.11790)
+- **Learning Program Semantics with Code Representations: An Empirical Study** (2022), SANER'22, Siow, Jing Kai, et al. [[pdf]](https://arxiv.org/pdf/2203.11790)[[code]](https://github.com/jingkai92/learning-program-representation)
 - **Assessing Generalizability of CodeBERT** (2021), ICSME'21, Zhou, Xin, et al.
 - **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** (2021), ASE'21, Paltenghi, M. & Pradel, M.
 - **An Empirical Study of Transformers for Source Code** (2021), FSE'21, Chirkova, N., & Troshin, S.
@@ -199,6 +200,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [Semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [GraphGen4Code](https://wala.github.io/graph4code/) - A toolkit for creating code knowledge graphs based on WALA code analysis and extraction of documentation
+- [Joern](https://github.com/joernio/joern) - Code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
 
 # Research Groups
 
