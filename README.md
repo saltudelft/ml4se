@@ -188,19 +188,26 @@ Please feel free to send a pull request to add papers and relevant content that 
 - [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/) (2013)
 
 # Tools
-
-- [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation
-- [CD4Py](https://github.com/saltudelft/CD4Py) - Code De-Duplication for Python
-- [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
+## Source Code Analysis & Processing
 - [LibSA4Py](https://github.com/saltudelft/libsa4py) - LibSA4Py: Light-weight static analysis for extracting type hints and features
-- [python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
-- [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
-- [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library for Python
+- [python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
 - [Semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [GraphGen4Code](https://wala.github.io/graph4code/) - A toolkit for creating code knowledge graphs based on WALA code analysis and extraction of documentation
 - [Joern](https://github.com/joernio/joern) - Code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
+
+## Machine Learning
+- [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation
+- [Hugging Face](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+## Code de-duplication
+- [CD4Py](https://github.com/saltudelft/CD4Py) - Code De-Duplication for Python
+- [Near-duplicate Source Code Detector](https://github.com/microsoft/near-duplicate-code-detector)
+
+## Misc
+- [Utilities by the DPU team of Microsoft](https://github.com/microsoft/dpu-utils)
+- [A set of tools to work with Big Code](https://github.com/danhper/bigcode-tools) - Fetching GitHub repos, tokenizers, embeddings and etc
+- [cloc](https://github.com/AlDanial/cloc) - Counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 # Research Groups
 
