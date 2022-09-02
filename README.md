@@ -31,6 +31,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 # Papers
 
 ## Type Inference
+- **Cross-Domain Evaluation of a Deep Learning-Based Type Inference System** (2022), arxiv, Gruner, Bernd, et al. [[pdf]](https://arxiv.org/pdf/2208.09189) [[code]](https://gitlab.com/dlr-dw/type-inference)
 - **Learning To Predict User-Defined Types** (2022), TSE'22, Jesse, Keven, et al. [[pdf]](https://www.cs.ucdavis.edu/~devanbu/DiverseTyper_TSE.pdf)
 - **Recovering Container Class Types in C++ Binaries** (2022), CGO'22, Wang, Xudong, et al.
 - **Finding the Dwarf: Recovering Precise Types from WebAssembly Binaries** (2022), PLDI'22, Lehmann, Daniel and Pradel, Michael [[pdf]](https://dlehmann.eu/publications/WasmTypePrediction-pldi2022.pdf)
@@ -61,6 +62,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation** (2022), arxiv, Shen, Sijie, et al. [[pdf]](https://arxiv.org/pdf/2208.10091)
 - **Language Models Can Teach Themselves to Program Better** (2022), arxiv, Haluptzok, Patrick, et al. [[pdf]](https://arxiv.org/pdf/2207.14502)
 - **DocCoder: Generating Code by Retrieving and Reading Docs** (2022), arxiv, Zhou, Shuyan, et al. [[pdf]](https://arxiv.org/pdf/2207.05987)
 - **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning** (2022), arxiv, Le, Hung, et al. [[pdf]](https://arxiv.org/pdf/2207.01780)
@@ -92,6 +94,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Embeddings/Representation
 
+- **A Tree-structured Transformer for Program Representation Learning** (2022), arxiv, Wang, Wenhan, et al. [[pdf]](https://arxiv.org/pdf/2208.08643)
 - **What does Transformer learn about source code?** (2022), arxiv, Zhang, Kechi, et al. [[pdf]](https://arxiv.org/pdf/2207.08466)
 - **Test2Vec: An Execution Trace Embedding for Test Case Prioritization** (2022), arxiv, Jabbar, Emad, et al. [[pdf]](https://arxiv.org/pdf/2206.15428.pdf)
 - **Diet Code is Healthy: Simplifying Programs for Pre-Trained Models of Code** (2022), arxiv, Zhang, Zhaowei, et al. [[pdf]](https://arxiv.org/pdf/2206.14390)
@@ -112,6 +115,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection** (2022), AAAI'22, Long, Tin et al. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-928.LongT.pdf)
 - **UniXcoder: Unified Cross-Modal Pre-training for Code Representation** (2022), arxiv 2022, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2203.03850)
 - **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** (2022), ICSE'22, Niu, Changan, et al. [[pdf]](https://arxiv.org/pdf/2201.01549.pdf)
+- **CoTexT: Multi-task Learning with Code-Text Transformer** (2021), arxiv, Phan, Long, et al. [[pdf]](https://arxiv.org/pdf/2105.08645)
 - **TreeCaps: Tree-Based Capsule Networks for Source Code Processing** (2021), AAAI'21, Bui, Nghi DQ, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9746.BuiNDQ.pdf) [[code]](https://github.com/bdqnghi/treecaps)
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
 - **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
@@ -134,6 +138,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
+- **Machine Learning for Source Code Vulnerability Detection: What Works and What Isn't There Yet** (2022), IEEE Security & Privacy, Marjanov, Tina, et al.
 - **Path-sensitive code embedding via contrastive learning for software vulnerability detection** (2022), ISSTA'22, Cheng, Xiao, et al.
 - **VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection** (2022), arxiv 2022, Hanif, H. and Maffeis, S. [[pdf]](https://arxiv.org/pdf/2205.12424)
 - **Katana: Dual Slicing-Based Context for Learning Bug Fixes** (2022), arxiv 2022, Sintaha, Mifta, et al. [[pdf]](https://arxiv.org/pdf/2205.00180)
@@ -150,6 +155,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automatically Learning Semantic Features for Defect Prediction** (2016), ICSE 2016, Wang, Song, et al.
 
 ## Source Code Modeling
+
+- **CodeBERT-nt: code naturalness via CodeBERT** (2022), arxiv, Khanfir, Ahmed, et al. [[pdf]](https://arxiv.org/pdf/2208.06042)
+- **CommitBART: A Large Pre-trained Model for GitHub Commits** (2022), arxiv, Liu, S., et al, [[pdf]](https://arxiv.org/pdf/2208.08100) 
 - **Towards Learning (Dis)-Similarity of Source Code from Program Contrasts** (2022), ACL'22, Ding, Yangruibo, et al. [[pdf]](https://aclanthology.org/2022.acl-long.436.pdf)
 - **A Systematic Evaluation of Large Language Models of Code** (2022), arxiv 2022, Xu, Frank F., et al. [[pdf]](https://arxiv.org/pdf/2202.13169)[[code]](https://github.com/VHellendoorn/Code-LMs)
 - **Multilingual training for Software Engineering** (2022), ICSE'22, Ahmed, Toufique, et al. [[pdf]](https://arxiv.org/pdf/2112.02043)
@@ -160,6 +168,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- **Repair Is Nearly Generation: Multilingual Program Repair with LLMs** (2022), arxiv, Joshi, Harshit, et al. [[pdf]](https://arxiv.org/pdf/2208.11640)
 - **VulRepair: A T5-Based Automated Software Vulnerability Repair** (2022), FSE'22, Fu, Michael, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/362092639_VulRepair_A_T5-Based_Automated_Software_Vulnerability_Repair/links/62d67c1ef976fb7443cecc35/VulRepair-A-T5-Based-Automated-Software-Vulnerability-Repair.pdf)
 - **Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning** (2022), FSE'22, Xia, Chunqiu Steven, and Lingming Z. [[pdf]](https://arxiv.org/pdf/2207.08281)
 - **Can we learn from developer mistakes? Learning to localize and repair real bugs from real bug fixes** (2022), arxiv, Richter, Cedric, and Heike W. [[pdf]](https://arxiv.org/pdf/2207.00301)
@@ -191,6 +200,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Empirical Studies
 
+- **What is it like to program with artificial intelligence?** (2022), arxiv, Sarkar, Advait, et al. [[pdf]](https://arxiv.org/pdf/2208.06213)
+- **Security Implications of Large Language Model Code Assistants: A User Study** (2022), arxiv, Sandoval, Gustavo, et al. [[pdf]](https://arxiv.org/pdf/2208.09727)
+- **An Empirical Study of Code Smells in Transformer-based Code Generation Techniques** (2022), arxiv, Siddiq, M. L. et al. [[pdf]](https://lsiddiqsunny.github.io/public/scam_2022.pdf)
 - **No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence** (2022), FSE'22, Wang, Chaozheng, et al. [[pdf]](https://arxiv.org/pdf/2207.11680)
 - **Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study** (2022), FSE'22, Nong, Yu, et al. [[pdf]](https://chapering.github.io/pubs/fse22yu.pdf)
 - **GitHub Copilot AI pair programmer: Asset or Liability?** (2022), arxiv, Dakhel, Arghavan Moradi, et al. [[pdf]](https://arxiv.org/pdf/2206.15331)
@@ -220,6 +232,10 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **Out of the BLEU: how should we assess quality of the Code Generation models?** (2022), arxiv, Evtikhiev, Mikhail, et al. [[pdf]](https://arxiv.org/pdf/2208.03133)
+- **Compressing Pre-trained Models of Code into 3 MB** (2022), arxiv, Shi, Jieke, et al. [[pdf]](https://arxiv.org/pdf/2208.07120)
+- **A Scalable and Extensible Approach to Benchmarking NL2Code for 18 Programming Languages** (2022), arxiv, Cassano, Federico, et al. [[pdf]](https://arxiv.org/pdf/2208.08227)
+- **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
 - **Overwatch: Learning Patterns in Code Edit Sequences** (2022), arxiv, Zhang, Yuhao, et al. [[pdf]](https://arxiv.org/pdf/2207.12456)
 - **Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing** (2022), KDD'22, Wang, Lihan, et al. [[pdf]](https://arxiv.org/pdf/2206.14017.pdf)
 - **DIRE and its Data: Neural Decompiled Variable Renamings with Respect to Software Class** (2022), TOSEM, Dramko, Luke, et al. 
@@ -251,6 +267,7 @@ Source Code Learning
 - [ManyTypes4TypeScript](https://www.kevinrjesse.com/pdfs/ManyTypes4TypeScript.pdf) (2022) - Type prediction dataset for TypeScript 
 - [HumanEval](https://github.com/openai/human-eval) - Program synthesis from code comments
 - [GitHub Code](https://huggingface.co/datasets/lvwerra/github-code) (2022) - 115M LoC in 32 programming languages
+- [D2A](https://arxiv.org/pdf/2102.07995.pdf) (2021) - A Dataset Built for AI-Based Vulnerability Detection Methods Using Differential Analysis
 - [CodeXGLUE](https://huggingface.co/datasets?search=code_x_glue) (2021)
 - [ogbg-code2](https://arxiv.org/pdf/2005.00687.pdf) (2021)
 - [ManyTypes4Py](https://github.com/saltudelft/many-types-4-py-dataset) (2021) - Type prediction dataset for Python
