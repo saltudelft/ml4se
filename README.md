@@ -17,6 +17,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Source Code Modeling](#source-code-modeling)
     - [Program Repair](#program-repair)
     - [Program Translation](#program-translation)
+    - [Program Analysis](#program-analysis)
     - [Code Clone Detection](#code-clone-detection)
     - [Empirical Studies](#empirical-studies)
     - [Surveys](#surveys)
@@ -52,6 +53,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Predicting Program Properties from “Big Code”** (2015) ACM SIGPLAN 2015, Raychev, Veselin, et al. [[pdf]](https://files.sri.inf.ethz.ch/website/papers/jsnice15.pdf)
 
 ## Code Completion
+- **Learning to Prevent Profitless Neural Code Completion** (2022), arxiv, Sun, Z., et al. [[pdf]](https://arxiv.org/pdf/2209.05948)
 - **All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs** (2022), arxiv, Bibaev, Vitaliy, et al. [[pdf]](https://arxiv.org/pdf/2205.10692.pdf)
 - **CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences** (2022), ICSE'22, Izadi, Maliheh, et al. [[pdf]](https://arxiv.org/pdf/2202.06689.pdf) [[code]](https://github.com/saltudelft/codefill)
 - **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs** (2021), AAAI'21, Wang, Yanlin, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1654.WangY.pdf)
@@ -79,6 +81,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Summarization
 
+- **Few-shot training LLMs for project-specific code-summarization** (2022), arxiv, A., Toufique, and P. Devanbu. [[pdf]](https://arxiv.org/pdf/2207.04237)
 - **Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization** (2022), FSE'22, Shi, Lin, et al. [[pdf]](https://arxiv.org/pdf/2207.05579)
 - **Learning code summarization from a small and local dataset** (2022), arxiv, Ahmed, Toufique, and Devanbu, P. [[pdf]](https://arxiv.org/pdf/2206.00804)
 - **Modeling Hierarchical Syntax Structure with Triplet Position for Source Code Summarization** (2022), ACL'22, Guo, Juncai, et al. [[pdf]](https://aclanthology.org/2022.acl-long.37.pdf)
@@ -138,6 +141,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
+- **SPVF: security property assisted vulnerability fixing via attention-based models** (2022), EMSE, Zhou, Zhou, et al. 
+- **Modeling function-level interactions for file-level bug localization** (2022), EMSE, Liang, H., et al.
+- **Practical Automated Detection of Malicious npm Packages** (2022), ICSE'22, Sejfia, A., and M. Schäfer [[pdf]](https://arxiv.org/pdf/2202.13953)
 - **Machine Learning for Source Code Vulnerability Detection: What Works and What Isn't There Yet** (2022), IEEE Security & Privacy, Marjanov, Tina, et al.
 - **Path-sensitive code embedding via contrastive learning for software vulnerability detection** (2022), ISSTA'22, Cheng, Xiao, et al.
 - **VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection** (2022), arxiv 2022, Hanif, H. and Maffeis, S. [[pdf]](https://arxiv.org/pdf/2205.12424)
@@ -156,6 +162,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Source Code Modeling
 
+- **On the Naturalness of Bytecode Instructions** (2022), ASE'22, Choi, Y., and J. Nam. [[pdf]](https://isel.handong.edu/papers/ase22-140.pdf)
 - **CodeBERT-nt: code naturalness via CodeBERT** (2022), arxiv, Khanfir, Ahmed, et al. [[pdf]](https://arxiv.org/pdf/2208.06042)
 - **CommitBART: A Large Pre-trained Model for GitHub Commits** (2022), arxiv, Liu, S., et al, [[pdf]](https://arxiv.org/pdf/2208.08100) 
 - **Towards Learning (Dis)-Similarity of Source Code from Program Contrasts** (2022), ACL'22, Ding, Yangruibo, et al. [[pdf]](https://aclanthology.org/2022.acl-long.436.pdf)
@@ -168,6 +175,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- **Repairing Bugs in Python Assignments Using Large Language Models** (2022), arxiv, Zhang, Jialu, et al. [[pdf]](https://arxiv.org/pdf/2209.14876.pdf)
 - **Repair Is Nearly Generation: Multilingual Program Repair with LLMs** (2022), arxiv, Joshi, Harshit, et al. [[pdf]](https://arxiv.org/pdf/2208.11640)
 - **VulRepair: A T5-Based Automated Software Vulnerability Repair** (2022), FSE'22, Fu, Michael, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/362092639_VulRepair_A_T5-Based_Automated_Software_Vulnerability_Repair/links/62d67c1ef976fb7443cecc35/VulRepair-A-T5-Based-Automated-Software-Vulnerability-Repair.pdf)
 - **Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning** (2022), FSE'22, Xia, Chunqiu Steven, and Lingming Z. [[pdf]](https://arxiv.org/pdf/2207.08281)
@@ -188,6 +196,10 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Semantics-Recovering Decompilation through Neural Machine Translation** (2021), arxiv 2021, Liang, Ruigang, et al. [[pdf]](https://arxiv.org/pdf/2112.15491.pdf)
 - **Unsupervised Translation of Programming Languages** (2020), arxiv 2020, Lachaux, Marie-Anne et al. [[pdf]](https://arxiv.org/abs/2006.03511)
 
+## Program Analysis
+- **AutoPruner: Transformer-Based Call Graph Pruning** (2022), FSE'22, Le-Cong, Thanh, et al. [[pdf]](https://arxiv.org/pdf/2209.03230)
+- **Striking a Balance: Pruning False-Positives from Static Call Graphs** (2022), ICSE'22, Utture, Akshay, et al. [[pdf]](http://compilers.cs.ucla.edu/papers/balancing-callgraphs.pdf)
+
 ## Code Clone Detection
 - **Evaluation of Contrastive Learning with Various Code Representations for Code Clone Detection** (2022), arxiv, Zubkov, Maksim, et al. [[pdf]](https://arxiv.org/pdf/2206.08726)
 - **Cross-Language Source Code Clone Detection Using Deep Learning with InferCode** (2022), arxiv 2022, Yahya, M., and Kim, D., [[pdf]](https://arxiv.org/pdf/2205.04913)
@@ -196,10 +208,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **The Adverse Effects of Code Duplication in Machine Learning Models of Code** (2019), Onward! 2019, Allamanis, Miltiadis, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3359591.3359735)
 
 ## Code Search
+- **A code search engine for software ecosystems** (2022), CEUR, Pfaff, Chris, et al. [[pdf]](https://benevol2022.github.io/papers/ChrisPfaff.pdf)
 - **Cross-Domain Deep Code Search with Meta Learning** (2022), ICSE'22, Chai, Yitian, et al. [[pdf]](https://guxd.github.io/papers/cdcs.pdf)
 
 ## Empirical Studies
 
+- **Open Science in Software Engineering: A Study on Deep Learning-Based Vulnerability Detection** (2022), TSE, Nong, Yu, et al. [[pdf]](https://www.researchgate.net/profile/Haipeng-Cai/publication/363535723_Open_Science_in_Software_Engineering_A_Study_on_Deep_Learning-Based_Vulnerability_Detection/links/63217b3b071ea12e3630cd6c/Open-Science-in-Software-Engineering-A-Study-on-Deep-Learning-Based-Vulnerability-Detection.pdf)
+- **A controlled experiment of different code representations for learning-based program repair** (2022), EMSE, Namavar, M., et al. 
 - **What is it like to program with artificial intelligence?** (2022), arxiv, Sarkar, Advait, et al. [[pdf]](https://arxiv.org/pdf/2208.06213)
 - **Security Implications of Large Language Model Code Assistants: A User Study** (2022), arxiv, Sandoval, Gustavo, et al. [[pdf]](https://arxiv.org/pdf/2208.09727)
 - **An Empirical Study of Code Smells in Transformer-based Code Generation Techniques** (2022), arxiv, Siddiq, M. L. et al. [[pdf]](https://lsiddiqsunny.github.io/public/scam_2022.pdf)
@@ -232,6 +247,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **Automatic Code Documentation Generation Using GPT-3** (2022), ASE'22, Khan, J. Y., and G. Uddin. [[pdf]](https://arxiv.org/pdf/2209.02235)
+- **So Much in So Little: Creating Lightweight Embeddings of Python Libraries** (2022), arxiv, Golubev, Yaroslav, et al. [[pdf]](https://arxiv.org/pdf/2209.03507)
+- **Code Compliance Assessment as a Learning Problem** (2022), arxiv, Sawant, N., and S. H. Sengamedu [[pdf]](https://arxiv.org/pdf/2209.04602.pdf)
+- **Learning-based Identification of Coding Best Practices from Software Documentation** (2022), ICSME'22, Sawant, N., and S. H. Sengamedu [[pdf]](https://assets.amazon.science/9d/1f/8610ceff42eeb27e813fb580d447/learning-based-identification-of-coding-best-practices-from-software-documentation.pdf)
+- **Learning to Answer Semantic Queries over Code** (2022), arxiv, Sahu, Surya Prakash, et al. [[pdf]](https://arxiv.org/pdf/2209.08372)
+- **XFL: Naming Functions in Binaries with Extreme Multi-label Learning** (2022), arxiv, Patrick-Evans, J., et al. [[pdf]](http://static.aixpaper.com/pdf/8/63/arxiv.2107.13404.pdf)
+- **SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings** (2022), Jin, Xin, et al. [[pdf]](https://web.cse.ohio-state.edu/~lin.3021/file/CCS22d.pdf)
 - **Out of the BLEU: how should we assess quality of the Code Generation models?** (2022), arxiv, Evtikhiev, Mikhail, et al. [[pdf]](https://arxiv.org/pdf/2208.03133)
 - **Compressing Pre-trained Models of Code into 3 MB** (2022), arxiv, Shi, Jieke, et al. [[pdf]](https://arxiv.org/pdf/2208.07120)
 - **A Scalable and Extensible Approach to Benchmarking NL2Code for 18 Programming Languages** (2022), arxiv, Cassano, Federico, et al. [[pdf]](https://arxiv.org/pdf/2208.08227)
