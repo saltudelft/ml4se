@@ -64,6 +64,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **Multi-lingual Evaluation of Code Generation Models** (2022), arxiv, Athiwaratkun, Ben, et al. [[pdf]](https://arxiv.org/pdf/2210.14868)[[code]](https://github.com/amazon-science/mbxp-exec-eval)
+- **DocCoder: Generating Code by Retrieving and Reading Docs** (2022), arxiv, Zhou, Shuyan, et al. [[pdf]](https://arxiv.org/pdf/2207.05987)
+- **Compilable Neural Code Generation with Compiler Feedback** (2022), ACL'22, Wang, Xin, et al. [[pdf]](https://aclanthology.org/2022.findings-acl.2.pdf)
 - **T5QL: Taming language models for SQL generation** (2022), arxiv, Arcadinho, S., et al. [[pdf]](https://arxiv.org/pdf/2209.10254)
 - **Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation** (2022), arxiv, Shen, Sijie, et al. [[pdf]](https://arxiv.org/pdf/2208.10091)
 - **Language Models Can Teach Themselves to Program Better** (2022), arxiv, Haluptzok, Patrick, et al. [[pdf]](https://arxiv.org/pdf/2207.14502)
@@ -74,7 +77,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **NatGen: Generative pre-training by “Naturalizing” source code** (2022), FSE'22, Chakraborty, Saikat, et al. [[pdf]](https://arxiv.org/pdf/2206.07585)
 - **StructCoder: Structure-Aware Transformer for Code Generation** (2022), arxiv, Tipirneni, Sindhu, et al. [[pdf]](https://arxiv.org/pdf/2206.05239)
 - **Compilable Neural Code Generation with Compiler Feedback** (2022), arxiv 2022, Wang, Xin, et al. [[pdf]](https://arxiv.org/pdf/2203.05132.pdf)
-- **Predictive Synthesis of API-Centric Code** (2022), arxiv 2022, Nam, Daye, et al. [[pdf]](https://arxiv.org/pdf/2201.03758.pdf) 
+- **Predictive Synthesis of API-Centric Code** (2022), arxiv 2022, Nam, Daye, et al. [[pdf]](https://arxiv.org/pdf/2201.03758.pdf)
+- **CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation** (2021), EMNLP'21, Wang, Yue, et al. [[pdf]](https://aclanthology.org/2021.emnlp-main.685.pdf)
 - **Evaluating Large Language Models Trained on Code** (2021), arxiv 2021, Chen, Mark, et al. [[pdf]](https://arxiv.org/pdf/2107.03374.pdf?ref=https://githubhelp.com) [[code]](https://github.com/openai/human-eval)
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
 - **TreeGen: A Tree-Based Transformer Architecture for Code Generation** (2019), arxiv 2019, Zhu, Qihao, et al. [[pdf]](https://arxiv.org/abs/1911.09983)
@@ -101,6 +105,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Embeddings/Representation
 
+- **sem2vec: Semantics-Aware Assembly Tracelet Embedding** (2022), TSE, Wang, Huaijin, et al.
 - **COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning** (2022), arxiv, Zhang, Yifan, et al. [[pdf]](https://arxiv.org/pdf/2210.05102.pdf)
 - **Soft-Labeled Contrastive Pre-training for Function-level Code Representation** (2022), arxiv, Li, Xiaonan, et al. [[pdf]](https://arxiv.org/pdf/2210.09597) 
 - **A Tree-structured Transformer for Program Representation Learning** (2022), arxiv, Wang, Wenhan, et al. [[pdf]](https://arxiv.org/pdf/2208.08643)
@@ -181,6 +186,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- - **Practical Program Repair in the Era of Large Pre-trained Language Models** (2022), arxiv, Xia, C. S. et al. [[pdf]](https://arxiv.org/pdf/2210.14179)
 - **SYNSHINE: improved fixing of Syntax Errors** (2022), IEEE TSE, Ahmed, T. et al.
 - **TransRepair: Context-aware Program Repair for Compilation Errors** (2022), ASE'22, Li, Xueyang, et al. [[pdf]](https://arxiv.org/pdf/2210.03986)
 - **Repairing Bugs in Python Assignments Using Large Language Models** (2022), arxiv, Zhang, Jialu, et al. [[pdf]](https://arxiv.org/pdf/2209.14876.pdf)
@@ -206,8 +212,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Unsupervised Translation of Programming Languages** (2020), arxiv 2020, Lachaux, Marie-Anne et al. [[pdf]](https://arxiv.org/abs/2006.03511)
 
 ## Program Analysis
-- **AutoPruner: Transformer-Based Call Graph Pruning** (2022), FSE'22, Le-Cong, Thanh, et al. [[pdf]](https://arxiv.org/pdf/2209.03230)
-- **Striking a Balance: Pruning False-Positives from Static Call Graphs** (2022), ICSE'22, Utture, Akshay, et al. [[pdf]](http://compilers.cs.ucla.edu/papers/balancing-callgraphs.pdf)
+- **AutoPruner: Transformer-Based Call Graph Pruning** (2022), FSE'22, Le-Cong, Thanh, et al. [[pdf]](https://arxiv.org/pdf/2209.03230)[[code]](https://github.com/soarsmu/AutoPruner/)
+- **Striking a Balance: Pruning False-Positives from Static Call Graphs** (2022), ICSE'22, Utture, Akshay, et al. [[pdf]](http://compilers.cs.ucla.edu/papers/balancing-callgraphs.pdf)[[code]](https://zenodo.org/record/6057691)
 
 ## Code Clone Detection
 - **Evaluation of Contrastive Learning with Various Code Representations for Code Clone Detection** (2022), arxiv, Zubkov, Maksim, et al. [[pdf]](https://arxiv.org/pdf/2206.08726)
@@ -224,6 +230,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Empirical Studies
 
+- **A large-scale empirical study of commit message generation: models, datasets and evaluation** (2022), EMSE, Tao, Wei, et al.
 - **Examining Zero-Shot Vulnerability Repair with Large Language Models** (2022), IEEE SP, Pearce, H., et al.
 - **Extracting Meaningful Attention on Source Code: An Empirical Study of Developer and Neural Model Code Exploration** (2022), arxiv, Paltenghi, M., et al. [[pdf]](https://arxiv.org/pdf/2210.05506)
 - **SimSCOOD: Systematic Analysis of Out-of-Distribution Behavior of Source Code Models** (2022), arxiv, Hajipour, H., et al. [[pdf]](https://arxiv.org/pdf/2210.04802)
@@ -262,6 +269,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **Towards Generalizable and Robust Text-to-SQL Parsing** (2022), arxiv, Gao, Chang, et al. [[pdf]](https://arxiv.org/pdf/2210.12674)
+- **CodeEditor: Learning to Edit Source Code with Pre-trained Models** (2022), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2210.17040)
+- **Poison Attack and Defense on Deep Source Code Processing Models** (2022), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2210.17029)
 - **NEUDEP: Neural Binary Memory Dependence Analysis** (2022), FSE'22, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2210.02853)
 - **Novice Type Error Diagnosis with Natural Language Models** (2022), arxiv, Geng, Chuqin, et al. [[pdf]](https://arxiv.org/pdf/2210.03682)
 - **CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure** (2022), arxiv, Chen, Nuo, et al. [[pdf]](https://arxiv.org/pdf/2210.04633)
@@ -327,6 +337,8 @@ Source Code Learning
 - [GraphGen4Code](https://wala.github.io/graph4code/) - A toolkit for creating code knowledge graphs based on WALA code analysis and extraction of documentation
 - [Joern](https://github.com/joernio/joern) - Code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
 - [NaturalCC](https://xcodemind.github.io/papers/icse22_naturalcc_camera_submitted.pdf) - An Open-Source Toolkit for Code Intelligence
+- [Scalpel](https://github.com/SMAT-Lab/Scalpel) - The Python Static Analysis Framework
+- [WALA](https://github.com/wala/WALA) - T.J. Watson Libraries for Analysis, with frontends for Java, Android, and JavaScript
 
 ## Machine Learning
 - [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation
@@ -350,6 +362,7 @@ Source Code Learning
 - [Deep Program Understanding](https://www.microsoft.com/en-us/research/project/program/), Microsoft Research
 - [DECAL (Davis Excellent/Eclectic/Extreme Computational Analytics Lab)](https://decallab.cs.ucdavis.edu/), UC Davis
 - [JetBrains Research](https://research.jetbrains.org/groups/ml_methods/)
+- [SMart software Analysis and Trustworthy computing Lab (SMAT)](https://smat-lab.github.io/), Monash University
 
 # Venues
 
@@ -360,8 +373,9 @@ Source Code Learning
 - **ICPC**, the International Conference on Program Comprehension
 - **ICLR**, the International Conference on Learning Representations
 - **ICML**, the International Conference on Machine Learning
-- **AAAI**, Association for the Advancement of Artificial
+- **AAAI**, the Association for the Advancement of Artificial
 Intelligence 
+- **ACL**, the Association for Computational Linguistics
 - **OOPSLA**, the ACM Conference on Systems, Programming, Languages, and Applications
 - **TSE**, the IEEE Transactions on Software Engineering
 - **TOSEM**, ACM Transactions on Software Engineering and Methodology
