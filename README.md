@@ -53,6 +53,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Predicting Program Properties from “Big Code”** (2015) ACM SIGPLAN 2015, Raychev, Veselin, et al. [[pdf]](https://files.sri.inf.ethz.ch/website/papers/jsnice15.pdf)
 
 ## Code Completion
+
+- **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
+- **Syntax-Aware On-the-Fly Code Completion** (2022), arxiv, Takerngsaksiri, W., et al. [[pdf]](https://arxiv.org/pdf/2211.04673)
 - **Learning to Prevent Profitless Neural Code Completion** (2022), arxiv, Sun, Z., et al. [[pdf]](https://arxiv.org/pdf/2209.05948)
 - **All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs** (2022), arxiv, Bibaev, Vitaliy, et al. [[pdf]](https://arxiv.org/pdf/2205.10692.pdf)
 - **CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences** (2022), ICSE'22, Izadi, Maliheh, et al. [[pdf]](https://arxiv.org/pdf/2202.06689.pdf) [[code]](https://github.com/saltudelft/codefill)
@@ -64,6 +67,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **Execution-based Evaluation for Data Science Code Generation Models** (2022), arxiv, Huang, Junjie, et al. [[pdf]](https://arxiv.org/pdf/2211.09374)
 - **Multi-lingual Evaluation of Code Generation Models** (2022), arxiv, Athiwaratkun, Ben, et al. [[pdf]](https://arxiv.org/pdf/2210.14868)[[code]](https://github.com/amazon-science/mbxp-exec-eval)
 - **DocCoder: Generating Code by Retrieving and Reading Docs** (2022), arxiv, Zhou, Shuyan, et al. [[pdf]](https://arxiv.org/pdf/2207.05987)
 - **Compilable Neural Code Generation with Compiler Feedback** (2022), ACL'22, Wang, Xin, et al. [[pdf]](https://aclanthology.org/2022.findings-acl.2.pdf)
@@ -105,6 +109,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Embeddings/Representation
 
+- **CLAWSAT: Towards Both Robust and Accurate Code Models** (2022), arxiv, Jia, Jinghan, et al. [[pdf]](https://arxiv.org/pdf/2211.11711)
 - **sem2vec: Semantics-Aware Assembly Tracelet Embedding** (2022), TSE, Wang, Huaijin, et al.
 - **COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning** (2022), arxiv, Zhang, Yifan, et al. [[pdf]](https://arxiv.org/pdf/2210.05102.pdf)
 - **Soft-Labeled Contrastive Pre-training for Function-level Code Representation** (2022), arxiv, Li, Xiaonan, et al. [[pdf]](https://arxiv.org/pdf/2210.09597) 
@@ -152,6 +157,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
+- **Variable-Based Fault Localization via Enhanced Decision Tree** (2022), arxiv, Jiang, Jiajun, et al. [[pdf]](https://arxiv.org/pdf/2211.11526)
 - **SPVF: security property assisted vulnerability fixing via attention-based models** (2022), EMSE, Zhou, Zhou, et al. 
 - **Modeling function-level interactions for file-level bug localization** (2022), EMSE, Liang, H., et al.
 - **Practical Automated Detection of Malicious npm Packages** (2022), ICSE'22, Sejfia, A., and M. Schäfer [[pdf]](https://arxiv.org/pdf/2202.13953)
@@ -173,6 +179,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Source Code Modeling
 
+- **Do Bugs Lead to Unnaturalness of Source Code?** (2022), FSE'22, Jiang, Yanjie, et al.
 - **On the Naturalness of Bytecode Instructions** (2022), ASE'22, Choi, Y., and J. Nam. [[pdf]](https://isel.handong.edu/papers/ase22-140.pdf)
 - **CodeBERT-nt: code naturalness via CodeBERT** (2022), arxiv, Khanfir, Ahmed, et al. [[pdf]](https://arxiv.org/pdf/2208.06042)
 - **CommitBART: A Large Pre-trained Model for GitHub Commits** (2022), arxiv, Liu, S., et al, [[pdf]](https://arxiv.org/pdf/2208.08100) 
@@ -216,6 +223,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Striking a Balance: Pruning False-Positives from Static Call Graphs** (2022), ICSE'22, Utture, Akshay, et al. [[pdf]](http://compilers.cs.ucla.edu/papers/balancing-callgraphs.pdf)[[code]](https://zenodo.org/record/6057691)
 
 ## Code Clone Detection
+
+- **Efficient transformer with code token learner for code clone detection** (2022), arxiv, Zhang, Aiping, et al.
 - **Evaluation of Contrastive Learning with Various Code Representations for Code Clone Detection** (2022), arxiv, Zubkov, Maksim, et al. [[pdf]](https://arxiv.org/pdf/2206.08726)
 - **Cross-Language Source Code Clone Detection Using Deep Learning with InferCode** (2022), arxiv 2022, Yahya, M., and Kim, D., [[pdf]](https://arxiv.org/pdf/2205.04913)
 - **funcGNN: A Graph Neural Network Approach to Program Similarity** (2020), ESEM'20, Nair, Aravind, et al. [[pdf]]()
@@ -224,12 +233,16 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Search
 
+- **You See What I Want You to See: Poisoning Vulnerabilities in Neural Code Search** (2022), FSE'22, Wan, Yao, et al.
+- **How to Better Utilize Code Graphs in Semantic Code Search?** (2022), FSE'22, Shi, Yucen, et al.
 - **Exploring Representation-Level Augmentation for Code Search** (2022), EMNLP'22, Li, Haochen, et al. [[pdf]](https://arxiv.org/pdf/2210.12285)[[code]](https://github.com/Alex-HaochenLi/RACS)
 - **A code search engine for software ecosystems** (2022), CEUR, Pfaff, Chris, et al. [[pdf]](https://benevol2022.github.io/papers/ChrisPfaff.pdf)
 - **Cross-Domain Deep Code Search with Meta Learning** (2022), ICSE'22, Chai, Yitian, et al. [[pdf]](https://guxd.github.io/papers/cdcs.pdf)
 
 ## Empirical Studies
 
+- **Are Neural Bug Detectors Comparable to Software Developers on Variable Misuse Bugs?** (2022), ASE'22, Richter, Cedric, et al. [[pdf]](https://fpauck.de/papers/ase22-203.pdf)
+- **Do Pre-trained Language Models Indeed Understand Software Engineering Tasks?** (2022), arxiv, Li, Yao, et al. [[pdf]](https://arxiv.org/pdf/2211.10623)
 - **A large-scale empirical study of commit message generation: models, datasets and evaluation** (2022), EMSE, Tao, Wei, et al.
 - **Examining Zero-Shot Vulnerability Repair with Large Language Models** (2022), IEEE SP, Pearce, H., et al.
 - **Extracting Meaningful Attention on Source Code: An Empirical Study of Developer and Neural Model Code Exploration** (2022), arxiv, Paltenghi, M., et al. [[pdf]](https://arxiv.org/pdf/2210.05506)
@@ -269,6 +282,12 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **Neural Language Models for Code Quality Identification** (2022), arxiv, Sengamedu, S., et al.
+- **Detecting Security Patches in Java Projects Using NLP Technology** (2022), ICNLSP'22, Stefanoni, Andrea, et al. [[pdf]](https://re.public.polimi.it/bitstream/11311/1223328/1/paper_sgj%2B.pdf)
+- **Program Merge Conflict Resolution via Neural Transformers** (2022), FSE'22, Svyatkovskiy, Alexey, et al.
+- **Automating code review activities by large-scale pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]]
+- **Teaching Algorithmic Reasoning via In-context Learning** (2022), arxiv, Zhou, Hattie, et al [[pdf]](https://arxiv.org/pdf/2211.09066)
+- **Improved Evaluation of Automatic Source Code Summarisation** (2022), arxiv, Phillips, Jesse, et al. [[pdf]](https://www.lancaster.ac.uk/~elhaj/docs/gem2022.pdf)
 - **Towards Generalizable and Robust Text-to-SQL Parsing** (2022), arxiv, Gao, Chang, et al. [[pdf]](https://arxiv.org/pdf/2210.12674)
 - **CodeEditor: Learning to Edit Source Code with Pre-trained Models** (2022), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2210.17040)
 - **Poison Attack and Defense on Deep Source Code Processing Models** (2022), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2210.17029)
@@ -379,3 +398,4 @@ Intelligence
 - **OOPSLA**, the ACM Conference on Systems, Programming, Languages, and Applications
 - **TSE**, the IEEE Transactions on Software Engineering
 - **TOSEM**, ACM Transactions on Software Engineering and Methodology
+- **JSS**, Journal of Systems and Software
