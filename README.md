@@ -70,6 +70,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **CodeScore: Evaluating Code Generation by Learning Code Execution** (2023), arxiv, Dong, Yihong, et al. [[pdf]](https://arxiv.org/pdf/2301.09043)
+- **Program Generation from Diverse Video Demonstrations** (2023), arxiv, Manchin, Anthony, et al. [[pdf]](https://arxiv.org/pdf/2302.00178) 
+- **Execution-based Code Generation using Deep Reinforcement Learning** (2023), arxiv, Shojaee, Parshin, et al. [[pdf]](https://arxiv.org/pdf/2301.13816)
 - **SantaCoder: don't reach for the stars!** (2023), arxiv, Allal, Loubna Ben, et al. [[pdf]](https://arxiv.org/pdf/2301.03988.pdf)
 - **Natural Language to Code Generation in Interactive Data Science Notebooks** (2022), arxiv, Yin, Pengcheng, et al. [[pdf]](https://arxiv.org/pdf/2212.09248)
 - **Asking Clarification Questions for Code Generation in General-Purpose Programming Language** (2022), arxiv, Li, Haau-Sing, et al. [[pdf]](https://arxiv.org/pdf/2212.09885)
@@ -100,6 +103,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Summarization
 
+- **Towards Retrieval-Based Neural Code Summarization: A Meta-Learning Approach** (2023), TSE, Zhou, Ziyi, et al.
 - **CLG-Trans: Contrastive Learning for Code Summarization via Graph Attention-based Transformer** (2023), SCP journal, Zeng, Jianwei, et al.
 - **ClassSum: a deep learning model for class-level code summarization** (2022), Springer NCA, Li, Mingchen, et al. [[code]](https://github.com/classsum/ClassSum)
 - **Boosting Code Summarization by Embedding Code Structures** (2022), COLING'22, Son, Jikyoeng, et al. [[pdf]](https://aclanthology.org/2022.coling-1.521.pdf)
@@ -169,6 +173,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
+- **CSGVD: A deep learning approach combining sequence and graph embedding for source code vulnerability detection** (2023), JSS journal, Tang, Wei, et al.
+- **Fixing Hardware Security Bugs with Large Language Models** (2023), arxiv, Ahmad, Baleegh, et al. [[pdf]](https://arxiv.org/pdf/2302.01215)
+- **VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application** (2023), Applied Sciences journal, Lin, Chun, et al. [[pdf]](https://www.mdpi.com/2076-3417/13/2/825/pdf)
 - **VDGraph2Vec: Vulnerability Detection in Assembly Code using Message Passing Neural Networks** (2022), ICMLA'22, Diwan, Ashita, et al. [[pdf]](https://dmas.lab.mcgill.ca/fung/pub/DLF22icmla.pdf)
 - **VulChecker: Graph-based Vulnerability Localization in Source Code** (2022), Usenix, Mirsky, Yisroel, et al. [[pdf]](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf)
 - **DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure and Pre-training Mechanism** (2022), arxiv, Wang, Jin, et al. [[pdf]](https://arxiv.org/pdf/2211.13097)
@@ -196,6 +203,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Source Code Modeling
 
+- **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning** (2023), arxiv, Liu, Shangqing, et al. [[pdf]](https://arxiv.org/pdf/2301.09072)
 - **ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages** (2022), arxiv, Chai, Yekun, et al. [[pdf]](https://arxiv.org/pdf/2212.06742)
 - **Do Bugs Lead to Unnaturalness of Source Code?** (2022), FSE'22, Jiang, Yanjie, et al.
 - **On the Naturalness of Bytecode Instructions** (2022), ASE'22, Choi, Y., and J. Nam. [[pdf]](https://isel.handong.edu/papers/ase22-140.pdf)
@@ -211,6 +219,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- **Boosting Automated Patch Correctness Prediction via Pre-trained Language Mode** (2023), Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
+- **Conversational Automated Program Repair** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2301.13246) 
+- **An Analysis of the Automatic Bug Fixing Performance of ChatGPT** (2023), arxiv, Sobania, Dominik, et al. [[pdf]](https://arxiv.org/pdf/2301.08653)
 - **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
 - **A Survey of Learning-based Automated Program Repair** (2023), arxiv, Zhang, Quanjun, et al.  [[pdf]](https://arxiv.org/pdf/2301.03270.pdf)
 - **Program Repair: Survey** (2022), arxiv, Gao, Xiang, et al. [[pdf]](https://arxiv.org/pdf/2211.12787.pdf)
@@ -267,6 +278,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Empirical Studies
 
+- **On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot** (2023), arxiv, Mastropaolo, Antonio, et al. [[pdf]](https://arxiv.org/pdf/2302.00438)
 - **Practitioners’ Expectations on Code Completion** (2023), arxiv, Wang, Chaozheng, et al. [[pdf]](https://arxiv.org/pdf/2301.03846)
 - **Is Self-Attention Powerful to Learn Code Syntax and Semantics?** (2022), arxiv, Ma, Wei, et al. [[pdf]](https://arxiv.org/pdf/2212.10017)
 - **Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?** (2022), arxiv, Döderlein et al. [[pdf]](https://arxiv.org/pdf/2210.14699)
@@ -316,6 +328,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation** (2023), arxiv, Pornprasit, Chanathip, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/367075263_D-ACT_Towards_Diff-Aware_Code_Transformation_for_Code_Review_Under_a_Time-Wise_Evaluation/links/63c03c9556d41566df5e52f2/D-ACT-Towards-Diff-Aware-Code-Transformation-for-Code-Review-Under-a-Time-Wise-Evaluation.pdf)
+- **API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model** (2023), arxiv, Huang, Qing, et al [[pdf]](https://arxiv.org/pdf/2301.03987)
+- **FLAME: A small language model for spreadsheet formulas** (2023), arxiv, Joshi, Harshit, et al. [[pdf]](https://arxiv.org/pdf/2301.13779)
 - **Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning** (2023), IEEE SP, Zhu, Wenyu, et al. 
 - **Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge** (2023), arxiv, Yang, Shouguo, et al. [[pdf]](https://arxiv.org/pdf/2301.00511)
 - **Fuzzing Deep-Learning Libraries via Large Language Models** (2022), arxiv, Deng, Yinlin, et al. [[pdf]](https://arxiv.org/pdf/2212.14834)
