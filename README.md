@@ -73,6 +73,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models.** (2023), arxiv, Hajipour, Hossein, et al. [[pdf]](https://arxiv.org/pdf/2302.04012)
 - **Exploring Data Augmentation for Code Generation Tasks** (2023), arxiv, C., Pinzhen, and G. Lampouras [[pdf]](https://arxiv.org/pdf/2302.03499)
 - **Controlling Large Language Models to Generate Secure and Vulnerable Code** (2023), arxiv, He, J., and M. Vechev [[pdf]](https://arxiv.org/pdf/2302.05319)
 - **SKCODER: A Sketch-based Approach for Automatic Code Generation** (2023), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2302.06144)
