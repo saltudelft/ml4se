@@ -15,6 +15,7 @@ Please feel free to send a pull request to add papers and relevant content that 
     - [Code Summarization](#code-summarization)
     - [Code Embeddings/Representation](#code-embeddingsrepresentation)
     - [Code Changes](#code-changes)
+    - [Code Comments](#code-comments)
     - [Bug/Vulnerability Detection](#bugvulnerability-detection)
     - [Source Code Modeling](#source-code-modeling)
     - [Program Repair](#program-repair)
@@ -60,6 +61,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Completion
 
+- **Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study** (2023), MSR'23, van Dam, Tim, et al. [[pdf]](https://arxiv.org/pdf/2304.12269)
 - **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** (2023), arxiv, Zhang, Fengji, et al. [[pdf]](https://arxiv.org/pdf/2303.12570)
 - **COCOMIC: ✿✿✿✿ Code ✿✿✿✿ Completion By Jointly Modeling In-file and ✿✿Cross-file Context** (2022), Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2212.10007)
 - **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
@@ -75,6 +77,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Generation
 
+- **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X** (2023), arxiv, Zheng, Qinkai, et al. [[pdf]](https://arxiv.org/pdf/2303.17568)
+- **Towards Enhancing In-Context Learning for Code Generation** (2023), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2303.17780)
+- **Knowledge Transfer for Pseudo-code Generation from Low Resource Programming Language** (2023), arxiv, Sontakke, Ankita, et al. [[pdf]](https://arxiv.org/pdf/2303.09062)
+- **MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation** (2023), TSE, Paul, Rishov, et al.  
+- **Self-collaboration Code Generation via ChatGPT** (2023), arxiv, Dong, Yihong, et al. [[pdf]](https://arxiv.org/pdf/2304.07590)
 - **Greener yet Powerful: Taming Large Code Generation Models with Quantization** (2023), arxiv, Wei, Xiaokai, et al. [[pdf]](https://arxiv.org/pdf/2303.05378.pdf)
 - **A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation** (2023), arxiv, Yang, Guang, et al. [[pdf]](https://arxiv.org/pdf/2303.05061)
 - **WikiCoder: Learning to Write Knowledge-Powered Code** (2023), arxiv, Matricon, Théo, et al. [[pdf]](https://arxiv.org/pdf/2303.08574)
@@ -118,6 +125,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Summarization
 
+- **Label Smoothing Improves Neural Source Code Summarization** (2023), arxiv, Haque, Sakib, et al. [[pdf]](https://arxiv.org/pdf/2303.16178)
 - **Demystifying What Code Summarization Models Learned** (2023), arxiv, Wang, Yu, and Ke Wang. [[pdf]](https://arxiv.org/pdf/2303.02333)
 - **CoSS: Leveraging Statement Semantics for Code Summarization** (2023), TSE, Shi, Chaochen, et al.
 - **An Extensive Study of the Structure Features in Transformer-based Code Semantic Summarization** (2023), RG, Yang, Kang, et al. [[pdf]](https://www.researchgate.net/profile/Shangwen-Wang/publication/369273643_An_Extensive_Study_of_the_Structure_Features_in_Transformer-based_Code_Semantic_Summarization/links/641313ce92cfd54f84060e2f/An-Extensive-Study-of-the-Structure-Features-in-Transformer-based-Code-Semantic-Summarization.pdf)
@@ -170,9 +178,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection** (2022), AAAI'22, Long, Tin et al. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-928.LongT.pdf)
 - **UniXcoder: Unified Cross-Modal Pre-training for Code Representation** (2022), arxiv 2022, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2203.03850)
 - **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** (2022), ICSE'22, Niu, Changan, et al. [[pdf]](https://arxiv.org/pdf/2201.01549.pdf)
+- **GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses** (2022), MSR'22, Ma, Wei, et al.
+- **OSCAR: How could Neural Networks understand Programs?** (2021), ICML'21, Peng, Dinglan, et al. [[pdf]](http://proceedings.mlr.press/v139/peng21b/peng21b.pdf)
+- **PROGRAML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations** (2021), ICML'21, Cummins, Chris, et al. [[pdf]](http://proceedings.mlr.press/v139/cummins21a/cummins21a.pdf)
 - **CoTexT: Multi-task Learning with Code-Text Transformer** (2021), arxiv, Phan, Long, et al. [[pdf]](https://arxiv.org/pdf/2105.08645)
 - **TreeCaps: Tree-Based Capsule Networks for Source Code Processing** (2021), AAAI'21, Bui, Nghi DQ, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9746.BuiNDQ.pdf) [[code]](https://github.com/bdqnghi/treecaps)
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
+- **IR2Vec: LLVM IR Based Scalable Program Embeddings** (2020), TACO journal, VenkataKeerthy, S., et al. 
+- **Compiler-Based Graph Representations for Deep Learning Models of Code** (2020), CC'20, Brauckmann, Alexander, et al.
 - **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
 - **Learning Semantic Program Embeddings with Graph Interval Neural Network** (2020), OOPSLA'20, Wang, Yu, et al.
 - **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
@@ -187,14 +200,26 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Changes
 
+- **Slice-Based Code Change Representation Learning** (2023), arxiv, Zhang, Fengyi, et al. [[pdf]](https://chenbihuan.github.io/paper/saner23-zhang-ccs2vec.pdf)
+- **Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions** (2023), arxiv, Fakhoury, Sarah, et al. [[pdf]](https://arxiv.org/pdf/2304.03816)
 - **CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back** (2023), arxiv, Liu, Zhongxin, et al. [[pdf]](https://arxiv.org/pdf/2302.03924)
 - **CoditT5: Pretraining for Source Code and Natural Language Editing** (2022), ASE 2022, Jiyang, Zhang, et al. [[pdf]](https://arxiv.org/abs/2208.05446)
 - **Commit2Vec: Learning Distributed Representations of Code Changes** (2021), SN Computer Science, Lozoya, Rocío Cabrera, et al.
 - **CODIT: Code Editing with Tree-Based Neural Models** (2020), TSE 2020, Chakraborty, Saikat, et al.
 - **On learning meaningful code changes via neural machine translation** (2019), ICSE 2019, Tufano, Michele, et al.
 
+## Code Comments
+
+- **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation** (2023), arxiv, Geng, Mingyang, et al. [[pdf]](https://arxiv.org/pdf/2304.11384)
+- **An Intra-Class Relation Guided Approach for Code Comment Generation** (2023), EACL'23, Wang, Zhenni, et al. [[pdf]](https://aclanthology.org/2023.findings-eacl.97.pdf)
+- **APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation** (2023), arxiv, Shahbazi, R., and Fard F. [[pdf]](https://arxiv.org/pdf/2303.01645)
+- **Developer-Intent Driven Code Comment Generation** (2023), arxiv, Mu, Fangwen, et al. [[pdf]](https://arxiv.org/pdf/2302.07055)
+- **ALSI-Transformer: Transformer-Based Code Comment Generation With Aligned Lexical and Syntactic Information** (2023), IEEE Access, Park, Youngmi, et al.
+
+
 ## Bug/Vulnerability Detection
 
+- **An Unbiased Transformer Source Code Learning with Semantic Vulnerability Graph** (2023), arxiv, Islam, Nafis Tanveer, et al. [[pdf]](https://arxiv.org/pdf/2304.11072)
 - **Large Language Models and Simple, Stupid Bugs** (2023), arxiv, Jesse, Kevin, et al. [[pdf]](https://arxiv.org/pdf/2303.11455)
 - **Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning** (2023), arxiv, Wen, Xin-Cheng, et al. [[pdf]](https://arxiv.org/pdf/2302.04675)
 - **DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection** (2023), arxiv, Wang, Wenbo, et al. [[pdf]](https://aashishyadavally.github.io/files/C4.pdf)
@@ -244,6 +269,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- **Revisiting the Plastic Surgery Hypothesis via Large Language Models** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2303.10494)
+- **A Survey on Automated Program Repair Techniques** (2023), arxiv, Huang, Kai, et al. [[pdf]](https://arxiv.org/pdf/2303.18184)
+- **Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT** (2023), arxiv, Xia, C. S., and Lingming Z. [[pdf]](https://arxiv.org/pdf/2304.00385)
+- **MUFIN: Improving Neural Repair Models with Back-Translation** (2023), arxiv, Silva, André, et al. [[pdf]](https://arxiv.org/pdf/2304.02301)
+- **Explainable Automated Debugging via Large Language Model-driven Scientific Debugging** (2023), arxiv, Kang, Sungmin, et al. [[pdf]](https://arxiv.org/pdf/2304.02195)
+- **A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair** (2023), arxiv, Cao, Jialun, et al. [[pdf]](https://arxiv.org/pdf/2304.08191)
+- **ITER: Iterative Neural Repair for Multi-Location Patches** (2023), arxiv, Ye, He, and Martin M. [[pdf]](https://arxiv.org/pdf/2304.12015)
+- **TraceFixer: Execution Trace-Guided Program Repair** (2023), arxiv, Bouzenia, Islem, et al. [[pdf]](https://arxiv.org/pdf/2304.12743)
 - **PatchZero: Zero-Shot Automatic Patch Correctness Assessment** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.00202)
 - **Rete: Learning Namespace Representation for Program Repair** (2023), ICSE'23, Parasaram, Nikhil et al. [[pdf]](https://mechtaev.com/files/icse23.pdf)
 - **InferFix: End-to-End Program Repair with LLMs over Retrieval-Augmented Prompts** (2023), arxiv, Jin, Matthew, et al. [[pdf]](https://arxiv.org/pdf/2303.07263)
@@ -293,6 +326,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Software Testing
 
+- **LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models** (2023), arxiv, Pan, Rongqi, et al. [[pdf]](https://arxiv.org/pdf/2304.01397)
 - **ChatGPT and Software Testing Education: Promises & Perils** (2023), arxiv, Jalil, Sajed, et al. [[pdf]](https://arxiv.org/pdf/2302.03287)
 - **Adaptive Test Generation Using a Large Language Model** (2023), arxiv, Schäfer, Max, et al. [[pdf]](https://arxiv.org/pdf/2302.06527)
 - **CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models** (2023), ICSE'23, Lemieux, Caroline, et al. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf) 
@@ -305,6 +339,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Clone Detection
 
+- **Neuro-symbolic Zero-Shot Code Cloning with Cross-Language Intermediate Representation** (2023), arxiv, Hasija, Krishnam, et al. [[pdf]](https://arxiv.org/pdf/2304.13350)
 - **Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection** (2023), arxiv, Pinku, Subroto Nag et al. [[pdf]](https://arxiv.org/pdf/2303.01435)
 - **Graph-based code semantics learning for efficient semantic code clone detection** (2022), IST journal, Yu, Dongjin, et al.
 - **Efficient transformer with code token learner for code clone detection** (2022), arxiv, Zhang, Aiping, et al.
@@ -316,6 +351,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Search
 
+- **Improving Code Search with Multi-Modal Momentum Contrastive Learning** (2023), ICPC'23, Shi, Zejian, et al. [[pdf]](https://szj2935.github.io/icpc2023mococs.pdf)
 - **MulCS: Towards a Unified Deep Representation for Multilingual Code Search** (2023), SANER'23, Ma, Yingwei, et al. [[pdf]](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)
 - **A mutual embedded self-attention network model for code search** (2023), JSS, Hu, Haize, et al.
 - **You See What I Want You to See: Poisoning Vulnerabilities in Neural Code Search** (2022), FSE'22, Wan, Yao, et al.
@@ -326,6 +362,13 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Empirical Studies
 
+- **Evaluating AIGC Detectors on Code Content** (2023), arxiv, Wang, Jian, et al. [[pdf]](https://arxiv.org/pdf/2304.05193)
+- **“What It Wants Me To Say”: Bridging the Abstraction Gap Between End-User Programmers and Code-Generating Large Language Models** (2023), CHI'23, Liu, Michael Xieyang, et al. [[pdf]](https://arxiv.org/pdf/2304.06597.pdf)
+- **Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study** (2023), arxiv, Gao, Shuzheng, et al. [[pdf]](https://arxiv.org/pdf/2304.07575)
+- **Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?** (2023), arxiv, Paul, Rishov, et al. [[pdf]](https://arxiv.org/pdf/2304.07840) 
+- **Investigating Code Generation Performance of ChatGPT with Crowdsourcing Social Data** (2023), COMPSAC'23, Feng, Yunhe, et al. [[pdf]](https://yunhefeng.me/material/COMPSAC___SETA_23.pdf)
+- **Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT** (2023), arxiv, Yetiştiren, Burak, et al. [[pdf]](https://arxiv.org/pdf/2304.10778)
+- **Is ChatGPT the Ultimate Programming Assistant - How far is it?** (2023), arxiv, Tian, Haoye, et al. [[pdf]](https://arxiv.org/pdf/2304.11938)
 - **Study of Distractors in Neural Models of Code** (2023), InteNSE'23, Rabin, Md Rafiqul Islam, et al. [[pdf]](https://arxiv.org/pdf/2303.01739)
 - **Judging Adam: Studying the Performance of Optimization Methods on ML4SE Tasks** (2023), arxiv, Pasechnyuk, Dmitry, et al. [[pdf]](https://arxiv.org/pdf/2303.03540)
 - **Boosting Source Code Learning with Data Augmentation: An Empirical Study** (2023), arxiv, Dong, Zeming, et al. [[pdf]](https://arxiv.org/pdf/2303.06808)
@@ -382,9 +425,15 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Misc
 
+- **Zero-shot Prompting for Code Complexity Prediction Using GitHub Copilot** (2023), arxiv, Siddiq, Mohammed Latif, et al. [[pdf]](https://lsiddiqsunny.github.io/public/NLBSE_2023_zero_shot.pdf)
+- **One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization** (2023), arxiv, Wang, Deze, et al. [[pdf]](https://arxiv.org/pdf/2303.15822)
+- **Better Language Models of Code through Self-Improvement** (2023), arxiv, To, Hung Quoc, et al. [[pdf]](https://arxiv.org/pdf/2304.01228)
+- **GraphBinMatch: Graph-based Similarity Learning for Cross-Language Binary and Source Code Matching** (2023), arxiv, TehraniJamsaz, Ali, et al. [[pdf]](https://arxiv.org/pdf/2304.04658)
+- **Teaching Large Language Models to Self-Debug** (2023), arxiv, Chen, Xinyun, et al. [[pdf]](https://arxiv.org/pdf/2304.05128)
+- **Improving Few-shot Prompts with Relevant Static Analysis Products** (2023), arxiv, Ahmed, Toufique, et al. [[pdf]](https://arxiv.org/pdf/2304.06815)
+- **Self-Supervised Learning to Prove Equivalence Between Straight-Line Programs via Rewrite Rules** (2023), TSE, Kommrusch, Steve, et al.
 - **XCODEEVAL: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval** (2023), arxiv, Khan, Mohammad Abdullah Matin, et al. [[pdf]](https://arxiv.org/pdf/2303.03004.pdf)
 - **BenchDirect: A Directed Language Model for Compiler Benchmarks** (2023), arxiv, Tsimpourlas, Foivos, et al. [[pdf]](https://arxiv.org/pdf/2303.01557)
-- **APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation** (2023), arxiv, Shahbazi, R., and Fard F. [[pdf]](https://arxiv.org/pdf/2303.01645)
 - **Creating CREATE queries with multi-task deep neural networks** (2023), KBS journal, Diker, S. N., and C. Okan Sakar
 - **Representation Learning for Stack Overflow Posts: How Far are We?** (2023), arxiv, He, Junda, et al. [[pdf]](https://arxiv.org/pdf/2303.06853)
 - **Generation-based Code Review Automation: How Far Are We?** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.07221)
@@ -399,7 +448,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code** (2023), arxiv, Zhou, Shuyan, et al. [[pdf]](https://arxiv.org/pdf/2302.05527)
 - **VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning** (2023), ICSE'23, Nong, Yu, et al. [[pdf]](https://software-lab.org/publications/icse2023_VulGen.pdf)
 - **When to Say What: Learning to Find Condition-Message Inconsistencies** (2023), ICSE'23, B., Islem, and M. Pradel. [[pdf]](https://software-lab.org/publications/icse2023_CMI-Finder.pdf)
-- **Developer-Intent Driven Code Comment Generation** (2023), arxiv, Mu, Fangwen, et al. [[pdf]](https://arxiv.org/pdf/2302.07055)
 - **Automated Summarization of Stack Overflow Posts** (2023), ICSE'23, Kou, Bonan, et al. [[pdf]](https://tianyi-zhang.github.io/files/icse2023-assort.pdf)
 - **Learning Graph-based Code Representations for Source-level Functional Similarity Detection** (2023), arxiv, Liu, Jiahao, et al. [[pdf]](https://jun-zeng.github.io/file/tailor_paper.pdf)
 - **Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning** (2023), ICSE'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)
@@ -467,6 +515,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 # Datasets
 
+- [DiverseVul](https://arxiv.org/pdf/2304.00409.pdf) - A Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection
+- [RunBugRun](https://arxiv.org/pdf/2304.01102.pdf) - An Executable Dataset for Automated Program Repair
 - [ODEX](https://arxiv.org/pdf/2212.10481.pdf) - An open-domain execution-based natural language (NL) to code generation dataset
 - [PI-Link](https://www.kaggle.com/datasets/zakareaalshara/android-closed-issues-20110101-20210101-clean) - A Ground-Truth Dataset of Links Between Pull-Requests and Issues in GitHub
 - [ml-Codesmell](https://figshare.com/articles/conference_contribution/ml-Codesmell/21343299/2) - A code smell prediction dataset for machine
