@@ -3,7 +3,7 @@ name: Count papers in README
 on:
   push:
     branches:
-      - master # or your default branch name
+      - master
 
 jobs:
   count-items:
@@ -14,19 +14,15 @@ jobs:
 
       - name: Count papers in README
         run: |
-          ITEM_COUNT=$(grep -oP '^\s*-\s*\*\*[^*]+\*\*\([0-9]+-[0-9]+\),\s*[^[]+\[\[pdf\]\]\([^)]+\)' README.md | wc -l)
+          ITEM_COUNT=$(grep -oP '^\s*-\s*\*\*[^*]+\*\*\s*\([0-9]{4}\),\s*[^,]+,[^,]*' README.md | wc -l)
           echo "ITEM_COUNT=$ITEM_COUNT" >> $GITHUB_ENV
 
-      - name: Update badge
-        uses: actions/github-script@v5
+      - name: Update paper no. badge
+        uses: schneegans/dynamic-badges-action@v1.6.0
         with:
-          script: |
-            const fs = require('fs');
-            const shieldsUrl = `https://img.shields.io/badge/Items-${process.env.ITEM_COUNT}-blue`;
-            const regex = /!\[Items count\]\([^\)]+\)/g;
-            const replacement = `![Items count](${shieldsUrl})`;
-            const readmePath = './README.md';
-            const readme = fs.readFileSync(readmePath, 'utf8');
-            const updatedReadme = readme.replace(regex, replacement);
-            fs.writeFileSync(readmePath, updatedReadme);
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: 0d2ee0d88d518e1a916aef1f8c77a666
+          filename: ml4se-paper-no.json
+          label: papers
+          message: ${{ env.ITEM_COUNT }}
+          color: blue
