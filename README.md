@@ -1,5 +1,6 @@
 # Machine Learning for Software Engineering
 ![GitHub last commit](https://img.shields.io/github/last-commit/saltudelft/ml4se)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/mir-am/0d2ee0d88d518e1a916aef1f8c77a666/raw/ml4se-paper-no.json)
 
 This repository contains a curated list of papers, PhD theses, datasets, and tools that are devoted to research on Machine Learning for Software Engineering. The papers are organized into popular research areas so that researchers can find recent papers and state-of-the-art approaches easily.
 
