@@ -702,6 +702,8 @@ Source Code Learning
 - [Scalpel](https://github.com/SMAT-Lab/Scalpel) - The Python Static Analysis Framework
 - [WALA](https://github.com/wala/WALA) - T.J. Watson Libraries for Analysis, with frontends for Java, Android, and JavaScript
 - [CodeGen](https://github.com/facebookresearch/CodeGen) - General toolkit to apply machine learning to code, from dataset creation to model training and evaluation (from Facebook AI Research)
+- [PyCG](https://github.com/vitsalis/PyCG) - PyCG employs static analysis to generate call graphs for Python code
+- [HeaderGen](https://github.com/ashwinprasadme/HeaderGen) - HeaderGen improves PyCG's call graph analysis by supporting external libraries and flow-sensitivity 
 
 ## Machine Learning
 - [CodeTF](https://arxiv.org/pdf/2306.00029.pdf) - One-stop Transformer Library for State-of-the-art Code LLM
