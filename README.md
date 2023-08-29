@@ -51,6 +51,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Finding the Dwarf: Recovering Precise Types from WebAssembly Binaries** (2022), PLDI'22, Lehmann, Daniel and Pradel, Michael [[pdf]](https://dlehmann.eu/publications/WasmTypePrediction-pldi2022.pdf)
 - **Type4Py: Practical Deep Similarity Learning-Based Type Inference for Python** (2022), ICSE'22, Mir, Amir, et al. [[pdf]](https://arxiv.org/pdf/2101.04470.pdf)[[code]](https://github.com/saltudelft/type4py)
 - **Static Inference Meets Deep Learning: A Hybrid Type Inference Approach for Python** (2022), ICSE'22, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2105.03595)
+- **StateFormer: Fine-grained Type Recovery from Binaries Using Generative State Modeling** (2021), FSE'21, Pei, Kexin, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3468264.3468607)[[code]](https://github.com/CUMLSec/stateformer)
 - **Type Inference as Optimization** (2021), NeurIPS'21 AIPLANS,  Pandi, Irene Vlassi, et al. [[pdf]](https://openreview.net/pdf?id=yHYZaQ0Zvml)
 - **SimTyper: Sound Type Inference for Ruby using Type Equality Prediction** (2021), OOPSLA'21, Kazerounian, Milod, et al.
 - **Learning type annotation: is big data enough?** (2021), FSE 2021, Jesse, Kevin, et al. [[pdf]](https://www.cs.ucdavis.edu/~devanbu/typebert_esec_fse_.pdf)[[code]](https://github.com/typebert/typebert)
@@ -189,7 +190,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Symmetry-Preserving Program Representations for Learning Code Semantics** (2023), arxiv, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2308.03312)
 - **PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis** (2023), arxiv, TehraniJamsaz, Ali, et al. [[pdf]](https://arxiv.org/pdf/2306.00210)
 - **xASTNN: Improved Code Representations for Industrial Practice** (2023), arxiv, Xu, Zhiwei, et al. [[pdf]](https://arxiv.org/pdf/2303.07104)
-- **Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding** (2023), TOSEM, Yang, Jia, et al. 
+- **Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding** (2023), TOSEM, Yang, Jia, et al.
+- **Trex: Learning Approximate Execution Semantics from Traces for Binary Function Similarity** (2022), TSE, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2012.08680.pdf)[[code]](https://github.com/CUMLSec/trex)
 - **Practical Binary Code Similarity Detection with BERT-based Transferable Similarity Learning** (2022), ACSAC'22, Ahn, Sunwoo, et al.
 - **CLAWSAT: Towards Both Robust and Accurate Code Models** (2022), arxiv, Jia, Jinghan, et al. [[pdf]](https://arxiv.org/pdf/2211.11711)
 - **sem2vec: Semantics-Aware Assembly Tracelet Embedding** (2022), TSE, Wang, Huaijin, et al.
@@ -642,9 +644,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **DeepPERF: A Deep Learning-Based Approach For Improving Software Performance** (2022), arxiv, Garg, Spandan, et al. [[pdf]](https://arxiv.org/pdf/2206.13619)
 - **CrystalBLEU: Precisely and Efficiently Measuring the Similarity of Code** (2022), ICSE ’22 Companion, Eghbali, Aryaz, and Michael, P. [[pdf]](https://software-lab.org/publications/icse2022_poster_CrystalBLEU.pdf)
 - **Impact of Evaluation Methodologies on Code Summarization** (2022), ACL, Nie, Pengyu, et al. [[pdf]](https://cozy.ece.utexas.edu/~pynie/p/NieETAL22EvalMethodologies.pdf)
+- **XDA: Accurate, Robust Disassembly with Transfer Learning** (2021), NDSS'21, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2010.00770.pdf)[[code]](https://github.com/CUMLSec/XDA)
 
 # PhD Theses
 
+- **Analyzing and Securing Software via Robust and Generalizable Learning** (2023), Kexin Pei [[pdf]](https://academiccommons.columbia.edu/doi/10.7916/2ynz-v753)
 - **Deep Language Models for Software Testing and Optimisation** (2023), Foivos Tsimpourlas [[pdf]](https://era.ed.ac.uk/bitstream/handle/1842/40677/Tsimpourlas2023.pdf?sequence=1&isAllowed=y)
 - **Improving Programming Productivity with Statistical Models** (2022), Tam Nguyen [[pdf]](https://etd.auburn.edu/bitstream/handle/10415/8152/Dissertation_TamNguyen.pdf)
 - **Learning to Find Bugs in Programs and their Documentation** (2021), Andrew Habib [[pdf](https://tuprints.ulb.tu-darmstadt.de/17377/)]
