@@ -392,6 +392,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Analysis
 
+- **(Partial) Program Dependence Analysis** (2023), ICSE'23, Yadavally, Aashish, et al. [[pdf]](https://aashishyadavally.github.io/files/C5.pdf)[[code]](https://github.com/aashishyadavally/NeuralPDA/)
 - **Precise Data-Driven Approximation for Program Analysis via Fuzzing** (2023), ASE'23, Parasaram, Nikhil, et al. [[pdf]](https://mechtaev.com/files/ase23.pdf)
 - **The Hitchhiker’s Guide to Program Analysis: A Journey with Large Language Models** (2023), arxiv, Li, Haonan, et al. [[pdf]](https://arxiv.org/pdf/2308.00245)
 - **AutoPruner: Transformer-Based Call Graph Pruning** (2022), FSE'22, Le-Cong, Thanh, et al. [[pdf]](https://arxiv.org/pdf/2209.03230)[[code]](https://github.com/soarsmu/AutoPruner/)
