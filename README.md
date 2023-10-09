@@ -194,7 +194,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills** (2023), arxiv, Sun, Qiushi, et al. [[pdf]](https://arxiv.org/pdf/2306.07285)
 - **CodeGrid: A Grid Representation of Code** (2023), ISSTA'23, Kaboré, Abdoul Kader, et al.
 - **Symmetry-Preserving Program Representations for Learning Code Semantics** (2023), arxiv, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2308.03312)
-- **PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis** (2023), arxiv, TehraniJamsaz, Ali, et al. [[pdf]](https://arxiv.org/pdf/2306.00210)
+- **PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis** (2023), NeurlIPS'23, TehraniJamsaz, Ali, et al. [[pdf]](https://arxiv.org/pdf/2306.00210)
 - **xASTNN: Improved Code Representations for Industrial Practice** (2023), arxiv, Xu, Zhiwei, et al. [[pdf]](https://arxiv.org/pdf/2303.07104)
 - **Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding** (2023), TOSEM, Yang, Jia, et al.
 - **Trex: Learning Approximate Execution Semantics from Traces for Binary Function Similarity** (2022), TSE, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2012.08680.pdf)[[code]](https://github.com/CUMLSec/trex)
@@ -441,7 +441,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 - **Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings** (2023), AAAI'24, Tang, Xunzhu, et al. [[pdf]](https://arxiv.org/pdf/2308.15234)
 - **Self-Supervised Query Reformulation for Code Search** (2023), FSE'23, Mao, Yuetian, et al. [[pdf]](https://arxiv.org/pdf/2307.00267)
-- **Evaluating and Optimizing the Effectiveness of Neural Machine Translation in Supporting Code Retrieval Models: A Study on the CAT Benchmark** (2023), arxiv, P. Hung, and A. Jannesari. [[pdf]](https://arxiv.org/pdf/2308.04693)
+- **Evaluating and Optimizing the Effectiveness of Neural Machine Translation in Supporting Code Retrieval Models: A Study on the CAT Benchmark** (2023), CIKM'23, P. Hung, and A. Jannesari. [[pdf]](https://arxiv.org/pdf/2308.04693)
+- **CoCoSoDa: Effective Contrastive Learning for Code Search** (2023) ICSE'23, Shi, Ensheng, et al. [[pdf]](https://arxiv.org/pdf/2204.03293.pdf)
 - **Improving Code Search with Multi-Modal Momentum Contrastive Learning** (2023), ICPC'23, Shi, Zejian, et al. [[pdf]](https://szj2935.github.io/icpc2023mococs.pdf)
 - **MulCS: Towards a Unified Deep Representation for Multilingual Code Search** (2023), SANER'23, Ma, Yingwei, et al. [[pdf]](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)
 - **A mutual embedded self-attention network model for code search** (2023), JSS, Hu, Haize, et al.
