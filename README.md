@@ -441,7 +441,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 - **Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings** (2023), AAAI'24, Tang, Xunzhu, et al. [[pdf]](https://arxiv.org/pdf/2308.15234)
 - **Self-Supervised Query Reformulation for Code Search** (2023), FSE'23, Mao, Yuetian, et al. [[pdf]](https://arxiv.org/pdf/2307.00267)
-- **Evaluating and Optimizing the Effectiveness of Neural Machine Translation in Supporting Code Retrieval Models: A Study on the CAT Benchmark** (2023), arxiv, P. Hung, and A. Jannesari. [[pdf]](https://arxiv.org/pdf/2308.04693)
+- **Evaluating and Optimizing the Effectiveness of Neural Machine Translation in Supporting Code Retrieval Models: A Study on the CAT Benchmark** (2023), CIKM'23, P. Hung, and A. Jannesari. [[pdf]](https://arxiv.org/pdf/2308.04693)
 - **Improving Code Search with Multi-Modal Momentum Contrastive Learning** (2023), ICPC'23, Shi, Zejian, et al. [[pdf]](https://szj2935.github.io/icpc2023mococs.pdf)
 - **MulCS: Towards a Unified Deep Representation for Multilingual Code Search** (2023), SANER'23, Ma, Yingwei, et al. [[pdf]](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)
 - **A mutual embedded self-attention network model for code search** (2023), JSS, Hu, Haize, et al.
