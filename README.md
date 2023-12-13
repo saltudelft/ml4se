@@ -41,8 +41,12 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Type Inference
 
-- **FQN Inference in Partial Code by Prompt-tuned Language Model of Code** (2023), TOSEM journal, Huang, Qing, et al. 
 - **Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors** (2023), ICSE'24, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2306.01394)
+- **DeepInfer: Deep Type Inference from Smart Contract Bytecode** (2023), ESEC/FSE '23, Zhao, Kunsong, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3616343)
+- **Statistical Type Inference for Incomplete Programs** (2023), ESEC/FSE '23, Peng, Yaohui, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3616283)
+- **DeMinify: Neural Variable Name Recovery and Type Inference** (2023), ESEC/FSE '23, Li, Yi, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3616368)
+- **Learning Type Inference for Enhanced Dataflow Analysis** (2023), ESORICS '23, Seidel, L. & Baker Effendi, D., et al. [[pdf]](https://arxiv.org/pdf/2310.00673.pdf)
+- **FQN Inference in Partial Code by Prompt-tuned Language Model of Code** (2023), TOSEM journal, Huang, Qing, et al. 
 - **Generative Type Inference for Python** (2023), ASE'23, Peng, Yun, et al. [[pdf]](https://arxiv.org/pdf/2307.09163)
 - **Type Prediction With Program Decomposition and Fill-in-the-Type Training** (2023), arxiv, Cassano, Federico, et al. [[pdf]](https://arxiv.org/pdf/2305.17145)
 - **TypeT5: Seq2seq Type Inference using Static Analysis** (2023), ICLR'23, Wei, Jiayi, et al. [[pdf]](https://arxiv.org/pdf/2303.09564)
