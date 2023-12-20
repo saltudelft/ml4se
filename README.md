@@ -198,12 +198,14 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Embeddings/Representation
 
+- **kTrans: Knowledge-Aware Transformer for Binary Code Embedding** (2023), arxiv, Wenyu, Zhu, et al. [[pdf]](https://arxiv.org/pdf/2308.12659.pdf)[[code]](https://github.com/Learner0x5a/kTrans-release)
 - **TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills** (2023), arxiv, Sun, Qiushi, et al. [[pdf]](https://arxiv.org/pdf/2306.07285)
 - **CodeGrid: A Grid Representation of Code** (2023), ISSTA'23, Kaboré, Abdoul Kader, et al.
 - **Symmetry-Preserving Program Representations for Learning Code Semantics** (2023), arxiv, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2308.03312)
 - **PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis** (2023), NeurlIPS'23, TehraniJamsaz, Ali, et al. [[pdf]](https://arxiv.org/pdf/2306.00210)
 - **xASTNN: Improved Code Representations for Industrial Practice** (2023), arxiv, Xu, Zhiwei, et al. [[pdf]](https://arxiv.org/pdf/2303.07104)
 - **Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding** (2023), TOSEM, Yang, Jia, et al.
+- **jTrans: Jump-Aware Transformer for Binary Code Similarity Detection** (2022), ISSTA, Hao, Wang, et al. [[pdf]](https://arxiv.org/pdf/2205.12713.pdf)[[code]](https://github.com/vul337/jTrans)
 - **Trex: Learning Approximate Execution Semantics from Traces for Binary Function Similarity** (2022), TSE, Pei, Kexin, et al. [[pdf]](https://arxiv.org/pdf/2012.08680.pdf)[[code]](https://github.com/CUMLSec/trex)
 - **Practical Binary Code Similarity Detection with BERT-based Transferable Similarity Learning** (2022), ACSAC'22, Ahn, Sunwoo, et al.
 - **CLAWSAT: Towards Both Robust and Accurate Code Models** (2022), arxiv, Jia, Jinghan, et al. [[pdf]](https://arxiv.org/pdf/2211.11711)
@@ -278,6 +280,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
+- **How Far Have We Gone in Vulnerability Detection Using Large Language Models** (2023), arxiv, Zeyu, Gao, et al. [[pdf]](https://arxiv.org/pdf/2311.12420.pdf)
 - **Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization** (2023), arxiv, Du, Y., & Yu, Z. [[pdf]](https://arxiv.org/pdf/2308.12773)
 - **PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities** (2023), arxiv, Soud, Majd, et al. [[pdf]](https://arxiv.org/pdf/2308.11082)
 - **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** (2023), arxiv, Chan, Aaron, et al. [[pdf]](https://arxiv.org/pdf/2306.01754)
@@ -710,6 +713,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 # Datasets
 
+- [VulBench](https://github.com/Hustcw/VulBench) - A benchmark of vulnerability detection with annotations for each vulnerable function detailing the vulnerability type and its root
+cause
 - [StudentEval](https://arxiv.org/pdf/2306.04556.pdf) - A Benchmark of Student-Written Prompts for Large Language Models of Code
 - [PySecDB](https://arxiv.org/pdf/2307.11853.pdf) - Exploring Security Commits in Python
 - [DiverseVul](https://arxiv.org/pdf/2304.00409.pdf) - A Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection
