@@ -449,6 +449,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Search
 
+- **Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search** (2024), arxiv, Li, Haochen, et al. [[pdf]](https://arxiv.org/pdf/2401.04514.pdf)
 - **Rethinking Negative Pairs in Code Search** (2023), EMNLP'23, Li, Haochen, et al. [[pdf]](https://arxiv.org/abs/2310.08069)[[code]](https://github.com/Alex-HaochenLi/Soft-InfoNCE)
 - **Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings** (2023), AAAI'24, Tang, Xunzhu, et al. [[pdf]](https://arxiv.org/pdf/2308.15234)
 - **Self-Supervised Query Reformulation for Code Search** (2023), FSE'23, Mao, Yuetian, et al. [[pdf]](https://arxiv.org/pdf/2307.00267)
