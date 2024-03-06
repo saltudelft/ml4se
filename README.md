@@ -9,33 +9,42 @@ Please feel free to send a pull request to add papers and relevant content that 
 > Note: to quickly access this page, use [ml4se.dev](https://ml4se.dev/)
 
 ## Content
+- [Machine Learning for Software Engineering](#machine-learning-for-software-engineering)
+  - [Content](#content)
 - [Papers](#papers)
-    - [Type Inference](#type-inference)
-    - [Code Completion](#code-completion)
-    - [Code Generation](#code-generation)
-    - [Code Summarization](#code-summarization)
-    - [Code Embeddings/Representation](#code-embeddingsrepresentation)
-    - [Code Changes/Editing](#code-changesediting)
-    - [Code Comments](#code-comments)
-    - [Bug/Vulnerability Detection](#bugvulnerability-detection)
-    - [Source Code Modeling](#source-code-modeling)
-    - [Program Repair](#program-repair)
-    - [Program Translation](#program-translation)
-    - [Program Analysis](#program-analysis)
-    - [Software Testing](#software-testing)
-    - [Code Clone Detection](#code-clone-detection)
-    - [Code Language Models](#code-language-models)
-    - [Code Review](#code-review)
-    - [Code Documentation](#code-documentation)
-    - [Empirical Studies](#empirical-studies)
-    - [Surveys](#surveys)
-    - [Misc](#misc)
+  - [Type Inference](#type-inference)
+  - [Code Completion](#code-completion)
+  - [Code Generation](#code-generation)
+  - [Code Summarization](#code-summarization)
+  - [Code Embeddings/Representation](#code-embeddingsrepresentation)
+  - [Code Changes/Editing](#code-changesediting)
+  - [Code Comments](#code-comments)
+  - [Bug/Vulnerability Detection](#bugvulnerability-detection)
+  - [Source Code Modeling](#source-code-modeling)
+  - [Program Repair](#program-repair)
+  - [Program Translation](#program-translation)
+  - [Program Analysis](#program-analysis)
+  - [Software Testing](#software-testing)
+  - [Code Clone Detection](#code-clone-detection)
+  - [Code Search](#code-search)
+  - [Code Language Models](#code-language-models)
+  - [Code Review](#code-review)
+  - [Code Documentation](#code-documentation)
+  - [Empirical Studies](#empirical-studies)
+  - [Surveys](#surveys)
+  - [Misc](#misc)
 - [PhD Theses](#phd-theses)
 - [Talks](#talks)
 - [Datasets](#datasets)
 - [Tools](#tools)
+  - [Source Code Analysis \& Processing](#source-code-analysis--processing)
+  - [Machine Learning](#machine-learning)
+  - [Code de-duplication](#code-de-duplication)
+  - [Misc](#misc-1)
 - [Research Groups](#research-groups)
 - [Venues](#venues)
+  - [Conferences](#conferences)
+  - [Journals](#journals)
 
 # Papers
 
@@ -197,7 +206,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **A Convolutional Attention Network for Extreme Summarization of Source Code** (2016), ICML 2016, Allamanis, Miltiadis, et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/allamanis16.pdf)
 
 ## Code Embeddings/Representation
-
+- **CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision** (2024),ISSTA'24, Wang, Hao, et al. [[pdf]](https://arxiv.org/pdf/2402.16928.pdf) [[code]](https://github.com/Hustcw/CLAP)
 - **kTrans: Knowledge-Aware Transformer for Binary Code Embedding** (2023), arxiv, Wenyu, Zhu, et al. [[pdf]](https://arxiv.org/pdf/2308.12659.pdf)[[code]](https://github.com/Learner0x5a/kTrans-release)
 - **TransCoder: Towards Unified Transferable Code Representation Learning Inspired by Human Skills** (2023), arxiv, Sun, Qiushi, et al. [[pdf]](https://arxiv.org/pdf/2306.07285)
 - **CodeGrid: A Grid Representation of Code** (2023), ISSTA'23, Kaboré, Abdoul Kader, et al.
@@ -431,7 +440,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **On Learning Meaningful Assert Statements for Unit Test Cases** (2020), ICSE'20, Watson, Cody, et al.
 
 ## Code Clone Detection
-
+- **CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection** (2024),ISSTA'24, Wang, Hao, et al. [[pdf]](https://arxiv.org/pdf/2402.18818.pdf) [[code]](https://github.com/Hustcw/CEBin)
 - **ZC3: Zero-Shot Cross-Language Code Clone Detection** (2023), arxiv, Li, Jia, et al. [[pdf]](https://arxiv.org/pdf/2308.13754)
 - **Towards Understanding the Capability of Large Language Models on Code Clone Detection: A Survey** (2023), arxiv, Dou, Shihan, et al. [[pdf]](https://arxiv.org/pdf/2308.01191)
 - **Comparison and Evaluation of Clone Detection Techniques with Different Code Representations** (2023), ICSE'23, Wang, Yuekun, et al. [[pdf]](https://wu-yueming.github.io/Files/ICSE2023_TACC.pdf)
