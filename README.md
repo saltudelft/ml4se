@@ -9,8 +9,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 > Note: to quickly access this page, use [ml4se.dev](https://ml4se.dev/)
 
 ## Content
-- [Machine Learning for Software Engineering](#machine-learning-for-software-engineering)
-  - [Content](#content)
 - [Papers](#papers)
   - [Type Inference](#type-inference)
   - [Code Completion](#code-completion)
