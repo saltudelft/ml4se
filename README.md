@@ -350,7 +350,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Program Repair
 
 - **Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering** (2023), arxiv, Paul, Rishov, et al. [[pdf]](https://lsiddiqsunny.github.io/public/2304.07840.pdf)
-- **Code Similarity and Location-Awareness Automatic Program Repair** (2023), Applied Sciences, Cao, Heling, et al. 
+- **Code Similarity and Location-Awareness Automatic Program Repair** (2023), Applied Sciences, Cao, Heling, et al. [[pdf]](https://www.mdpi.com/2076-3417/13/14/8519/pdf) 
 - **The Future Can’t Help Fix The Past: Assessing Program Repair In The Wild** (2023), RG, Kabadi, Vinay, et al. [[pdf]](https://www.researchgate.net/profile/Xuan-Bach-D-Le/publication/372788577_The_Future_Can't_Help_Fix_The_Past_Assessing_Program_Repair_In_The_Wild/links/64c8d8ff862f8d2999875f1e/The-Future-Cant-Help-Fix-The-Past-Assessing-Program-Repair-In-The-Wild.pdf)
 - **Revisiting the Plastic Surgery Hypothesis via Large Language Models** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2303.10494)
 - **A Survey on Automated Program Repair Techniques** (2023), arxiv, Huang, Kai, et al. [[pdf]](https://arxiv.org/pdf/2303.18184)
