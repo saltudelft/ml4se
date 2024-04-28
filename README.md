@@ -432,7 +432,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **CigaR: Cost-efficient Program Repair with LLMs** (2024), arxiv, Hidvégi, Dávid, et al. [[pdf]](https://arxiv.org/pdf/2402.06598)
 - **PyTy: Repairing Static Type Errors in Python** (2024), ICSE'24, Chow, Yiu W., et al. [[pdf]](https://arxiv.org/pdf/2401.06619.pdf)
 - **A Novel Approach for Automated Program Repair using Round-Trip Translation with Large Language Models** (2024), arxiv, Ruiz, F. Vallecillos, et al. [[pdf]](https://arxiv.org/pdf/2401.07994.pdf)
-- **APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models** (2024), TSE, Zhang, Quanjun, et al. 
+- **APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models** (2024), TSE, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
 - **Towards Low-Resource Automatic Program Repair with Meta-Learning and Pretrained Language Models** (2023), EMNLP'23, Wang, Weishi, et al. [[pdf]](https://openreview.net/pdf?id=aLkknJNdl6)
 - **GPT-3-Powered Type Error Debugging: Investigating the Use of Large Language Models for Code Repair** (2023), SLE'23, Ribeiro, Francisco, et al.
 - **Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering** (2023), arxiv, Paul, Rishov, et al. [[pdf]](https://lsiddiqsunny.github.io/public/2304.07840.pdf)
