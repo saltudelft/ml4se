@@ -454,7 +454,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Impact of Code Language Models on Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.05020)
 - **Embedding Context as Code Dependencies for Neural Program Repair** (2023), ICST'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)
 - **Tare: Type-Aware Neural Program Repair** (2023), arxiv, Zhu, Qihao, et al. [[pdf]](https://xiongyingfei.github.io/papers/ICSE23a.pdf)
-- **Boosting Automated Patch Correctness Prediction via Pre-trained Language Mode** (2023), arxiv, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
 - **Conversational Automated Program Repair** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2301.13246) 
 - **An Analysis of the Automatic Bug Fixing Performance of ChatGPT** (2023), arxiv, Sobania, Dominik, et al. [[pdf]](https://arxiv.org/pdf/2301.08653)
 - **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
