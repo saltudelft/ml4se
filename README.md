@@ -432,7 +432,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **CigaR: Cost-efficient Program Repair with LLMs** (2024), arxiv, Hidvégi, Dávid, et al. [[pdf]](https://arxiv.org/pdf/2402.06598)
 - **PyTy: Repairing Static Type Errors in Python** (2024), ICSE'24, Chow, Yiu W., et al. [[pdf]](https://arxiv.org/pdf/2401.06619.pdf)
 - **A Novel Approach for Automated Program Repair using Round-Trip Translation with Large Language Models** (2024), arxiv, Ruiz, F. Vallecillos, et al. [[pdf]](https://arxiv.org/pdf/2401.07994.pdf)
-- **APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models** (2024), TSE, Zhang, Quanjun, et al. 
+- **APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models** (2024), TSE, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
 - **Towards Low-Resource Automatic Program Repair with Meta-Learning and Pretrained Language Models** (2023), EMNLP'23, Wang, Weishi, et al. [[pdf]](https://openreview.net/pdf?id=aLkknJNdl6)
 - **GPT-3-Powered Type Error Debugging: Investigating the Use of Large Language Models for Code Repair** (2023), SLE'23, Ribeiro, Francisco, et al.
 - **Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering** (2023), arxiv, Paul, Rishov, et al. [[pdf]](https://lsiddiqsunny.github.io/public/2304.07840.pdf)
@@ -454,7 +454,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Impact of Code Language Models on Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.05020)
 - **Embedding Context as Code Dependencies for Neural Program Repair** (2023), ICST'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)
 - **Tare: Type-Aware Neural Program Repair** (2023), arxiv, Zhu, Qihao, et al. [[pdf]](https://xiongyingfei.github.io/papers/ICSE23a.pdf)
-- **Boosting Automated Patch Correctness Prediction via Pre-trained Language Mode** (2023), arxiv, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
 - **Conversational Automated Program Repair** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2301.13246) 
 - **An Analysis of the Automatic Bug Fixing Performance of ChatGPT** (2023), arxiv, Sobania, Dominik, et al. [[pdf]](https://arxiv.org/pdf/2301.08653)
 - **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
