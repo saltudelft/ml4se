@@ -427,6 +427,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Program Repair
 
+- **T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble** (2024), JSS, Gharibi, Reza, et al. [[pdf]](https://arxiv.org/pdf/2309.15742)
 - **RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair** (2024), arxiv, Silva, André et al. [[pdf]](https://arxiv.org/pdf/2312.15698)
 - **On Repairing Quantum Programs Using ChatGPT** (2024), Q-SE'24, Guo et al. [[pdf]](https://arxiv.org/pdf/2401.14913.pdf)
 - **CigaR: Cost-efficient Program Repair with LLMs** (2024), arxiv, Hidvégi, Dávid, et al. [[pdf]](https://arxiv.org/pdf/2402.06598)
