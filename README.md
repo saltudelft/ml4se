@@ -623,7 +623,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments** (2023), arxiv, Saker, Jaydeb, et al. [[pdf]](https://arxiv.org/pdf/2307.03386)
 - **Generation-based Code Review Automation: How Far Are We?** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.07221)
 - **D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation** (2023), arxiv, Pornprasit, Chanathip, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/367075263_D-ACT_Towards_Diff-Aware_Code_Transformation_for_Code_Review_Under_a_Time-Wise_Evaluation/links/63c03c9556d41566df5e52f2/D-ACT-Towards-Diff-Aware-Code-Transformation-for-Code-Review-Under-a-Time-Wise-Evaluation.pdf)
-- **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]]
+- **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095)
 
 ## Code Documentation
 
