@@ -874,7 +874,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation** (2023), arxiv, Tu, Haoxin, et al. [[pdf]](https://arxiv.org/pdf/2307.00593)
 - **Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis** (2023), ISSTA'23, Xu, Xiangzhe, et al. [[pdf]](https://qingkaishi.github.io/public_pdfs/ISSTA23.pdf) 
 - **Exploring and Characterizing Large Language Models For Embedded System Development and Debugging** (2023), arxiv, Englhardt, Zachary, et al.  [[pdf]](https://arxiv.org/pdf/2307.03817)
-
 - **Explaining Competitive-Level Programming Solutions using LLMs** (2023), arxiv, Li, Jierui, et al. [[pdf]](https://arxiv.org/pdf/2307.05337)
 - **BTLink : automatic link recovery between issues and commits based on pre-trained BERT model** (2023), EMSE journal, Lan, Jinpeng, et al. 
 - **In-IDE Generation-based Information Support with a Large Language Model** (2023), arxiv, Nam, Daye, et al. [[pdf]](https://arxiv.org/pdf/2307.08177)
@@ -921,7 +920,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Automated Summarization of Stack Overflow Posts** (2023), ICSE'23, Kou, Bonan, et al. [[pdf]](https://tianyi-zhang.github.io/files/icse2023-assort.pdf)
 - **Learning Graph-based Code Representations for Source-level Functional Similarity Detection** (2023), arxiv, Liu, Jiahao, et al. [[pdf]](https://jun-zeng.github.io/file/tailor_paper.pdf)
 - **Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning** (2023), ICSE'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)
-
 - **API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model** (2023), arxiv, Huang, Qing, et al [[pdf]](https://arxiv.org/pdf/2301.03987)
 - **FLAME: A small language model for spreadsheet formulas** (2023), arxiv, Joshi, Harshit, et al. [[pdf]](https://arxiv.org/pdf/2301.13779)
 - **Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning** (2023), IEEE SP, Zhu, Wenyu, et al. 
@@ -929,7 +927,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binaries** (2023), SANER23, Al-Kaswan, Ali, et al. [[pdf]](https://arxiv.org/pdf/2301.01701)
 - **CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering** (2023), arxiv, Yu, Shih-Yuan, et al.  [[pdf]](https://arxiv.org/pdf/2301.02723)
 - **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models** (2023), ICSE'23, Ahmed, Toufique, et al. [[pdf]](https://arxiv.org/pdf/2301.03797.pdf)
-
 
 <details><summary><b>Older:</b></i></summary>
 <div>
