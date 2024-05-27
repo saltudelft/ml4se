@@ -690,6 +690,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments** (2023), arxiv, Saker, Jaydeb, et al. [[pdf]](https://arxiv.org/pdf/2307.03386)
 - **Generation-based Code Review Automation: How Far Are We?** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.07221)
 - **D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation** (2023), arxiv, Pornprasit, Chanathip, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/367075263_D-ACT_Towards_Diff-Aware_Code_Transformation_for_Code_Review_Under_a_Time-Wise_Evaluation/links/63c03c9556d41566df5e52f2/D-ACT-Towards-Diff-Aware-Code-Transformation-for-Code-Review-Under-a-Time-Wise-Evaluation.pdf)
+- **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
 - **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095)
 
 ## Code Documentation
@@ -959,7 +960,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Out of the BLEU: how should we assess quality of the Code Generation models?** (2022), arxiv, Evtikhiev, Mikhail, et al. [[pdf]](https://arxiv.org/pdf/2208.03133)
 - **Compressing Pre-trained Models of Code into 3 MB** (2022), arxiv, Shi, Jieke, et al. [[pdf]](https://arxiv.org/pdf/2208.07120)
 - **A Scalable and Extensible Approach to Benchmarking NL2Code for 18 Programming Languages** (2022), arxiv, Cassano, Federico, et al. [[pdf]](https://arxiv.org/pdf/2208.08227)
-- **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
 - **Overwatch: Learning Patterns in Code Edit Sequences** (2022), arxiv, Zhang, Yuhao, et al. [[pdf]](https://arxiv.org/pdf/2207.12456)
 - **Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing** (2022), KDD'22, Wang, Lihan, et al. [[pdf]](https://arxiv.org/pdf/2206.14017.pdf)
 - **DIRE and its Data: Neural Decompiled Variable Renamings with Respect to Software Class** (2022), TOSEM, Dramko, Luke, et al. 
