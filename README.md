@@ -692,6 +692,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation** (2023), arxiv, Pornprasit, Chanathip, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/367075263_D-ACT_Towards_Diff-Aware_Code_Transformation_for_Code_Review_Under_a_Time-Wise_Evaluation/links/63c03c9556d41566df5e52f2/D-ACT-Towards-Diff-Aware-Code-Transformation-for-Code-Review-Under-a-Time-Wise-Evaluation.pdf)
 - **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
 - **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095)
+- **Using Pre-Trained Models to Boost Code Review Automation** (2022), ICSE'22, Tufano, et al. [[pdf]](https://arxiv.org/abs/2201.06850)
 
 ## Code Documentation
 
