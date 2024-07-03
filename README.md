@@ -680,6 +680,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Review
 
+- **Improving Automated Code Reviews: Learning from Experience** (2024), MSR'24, Hong Yi Lin et al. [[pdf]](https://arxiv.org/abs/2402.03777)
 - **Security Code Review by LLMs: A Deep Dive into Responses** (2024), arxiv, Yu et al. [[pdf]](https://arxiv.org/pdf/2401.16310)
 - **GPT-3.5 for Code Review Automation: How Do Few-Shot Learning, Prompt Design, and Model Fine-Tuning Impact Their Performance?** (2024), arxiv, Pornprasit, C., & Tantithamthavorn, C. [[pdf]](https://arxiv.org/pdf/2402.00905)
 - **Resolving Code Review Comments with Machine Learning** (2023), ICSE'24, Frömmgen, et al. [[pdf]](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/0449374e831a796a5e88f92380c64e7e090c6dfa.pdf)
