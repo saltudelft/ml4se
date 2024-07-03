@@ -694,6 +694,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
 - **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095)
 - **Using Pre-Trained Models to Boost Code Review Automation** (2022), ICSE'22, Tufano, et al. [[pdf]](https://arxiv.org/abs/2201.06850)
+- **Using Towards Automating Code Review Activities** (2021), ICSE'21, Tufano, et al. [[pdf]](https://arxiv.org/pdf/2101.02518)
 
 ## Code Documentation
 
