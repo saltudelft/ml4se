@@ -680,20 +680,23 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Review
 
-- **Security Code Review by LLMs: A Deep Dive into Responses** (2024), arxiv, Yu et al. [[pdf]](https://arxiv.org/pdf/2401.16310)
+- **Code Review Automation: Strengths and Weaknesses of the State of the Art** (2024), TSE'24, Tufano, et al.
+- **Improving Automated Code Reviews: Learning from Experience** (2024), MSR'24, Hong Yi Lin et al. [[pdf]](https://arxiv.org/abs/2402.03777)
 - **GPT-3.5 for Code Review Automation: How Do Few-Shot Learning, Prompt Design, and Model Fine-Tuning Impact Their Performance?** (2024), arxiv, Pornprasit, C., & Tantithamthavorn, C. [[pdf]](https://arxiv.org/pdf/2402.00905)
+- **Security Code Review by LLMs: A Deep Dive into Responses** (2024), arxiv, Yu et al. [[pdf]](https://arxiv.org/pdf/2401.16310)
 - **Resolving Code Review Comments with Machine Learning** (2023), ICSE'24, Frömmgen, et al. [[pdf]](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/0449374e831a796a5e88f92380c64e7e090c6dfa.pdf)
 - **Team-related Features in Code Review Prediction Models** (2023), arxiv, Witter, Eduardo et al. [[pdf]](https://arxiv.org/pdf/2312.06244)
 - **Unity is Strength: Cross-Task Knowledge Distillation to Improve Code Review Generation** (2023), arxiv, Sghaier et al. [[pdf]](https://arxiv.org/pdf/2309.03362) 
-- **LLaMA-Reviewer: Advancing Code Review Automation with Large Language Models through Parameter-Efficient Fine-Tuning** (2023), arxiv, Lu, Junyi, et al. [[pdf]](https://arxiv.org/pdf/2308.11148)
+- **LLaMA-Reviewer: Advancing Code Review Automation with Large Language Models through Parameter-Efficient Fine-Tuning** (2023), ISSRE'23, Lu, Junyi, et al. [[pdf]](https://arxiv.org/pdf/2308.11148)
 - **Learning to Predict Code Review Completion Time In Modern Code Review** (2023), EMSE journal, Chouchen, Moataz, et al. 
 - **ReviewRanker: A Semi-Supervised Learning Based Approach for Code Review Quality Estimation** (2023), arxiv, Mahbub, Saifullah, et al. [[pdf]](https://arxiv.org/pdf/2307.03996)
 - **ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments** (2023), arxiv, Saker, Jaydeb, et al. [[pdf]](https://arxiv.org/pdf/2307.03386)
 - **Generation-based Code Review Automation: How Far Are We?** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.07221)
 - **D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation** (2023), arxiv, Pornprasit, Chanathip, et al. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/367075263_D-ACT_Towards_Diff-Aware_Code_Transformation_for_Code_Review_Under_a_Time-Wise_Evaluation/links/63c03c9556d41566df5e52f2/D-ACT-Towards-Diff-Aware-Code-Transformation-for-Code-Review-Under-a-Time-Wise-Evaluation.pdf)
 - **AUGER: Automatically Generating Review Comments with Pre-training Models** (2022), FSE'22, Li, Lingwei, et al. [[pdf]](https://arxiv.org/pdf/2208.08014)
-- **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095)
+- **Automating Code Review Activities by Large-Scale Pre-training** (2022), FSE'22, Li, Zhiyu, et al. [[pdf]](https://arxiv.org/pdf/2203.09095) [[code]](https://github.com/microsoft/CodeBERT/tree/master/CodeReviewer)
 - **Using Pre-Trained Models to Boost Code Review Automation** (2022), ICSE'22, Tufano, et al. [[pdf]](https://arxiv.org/abs/2201.06850)
+- **Using Towards Automating Code Review Activities** (2021), ICSE'21, Tufano, et al. [[pdf]](https://arxiv.org/pdf/2101.02518)
 
 ## Code Documentation
 
